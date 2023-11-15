@@ -1,7 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using Zamiux.Web.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Start Service To DB Connection
+builder.Services.AddDbContext<ZamiuxDbContext>(
+    options =>
+    {
+        options.UseSqlServer("Data Source=.;Initial Catalog=ZamiuxDB;Integrated Security=True;TrustServerCertificate=True");
+    });
+
+// End Service To DB Connection
 
 var app = builder.Build();
 
