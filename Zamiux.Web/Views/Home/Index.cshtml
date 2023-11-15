@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+ <!-- =====================================
+    ==== Start Header -->
+    @await Component.InvokeAsync("Slider")    
+    <!-- End Header ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Hero -->
+    @await Component.InvokeAsync("Hero")
+    <!-- End Hero ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Section-box -->
+    @await Component.InvokeAsync("Skill")
+    <!-- End Section-box ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Services -->
+    @await Component.InvokeAsync("ServicesUs") 
+    <!-- End Services ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Numbers -->
+    @await Component.InvokeAsync("Numbers")
+    <!-- End Numbers ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Works -->
+    @await Component.InvokeAsync("Works")
+    <!-- End Works ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Testimonials -->
+    @await Component.InvokeAsync("Testimonials")
+    <!-- End Testimonials ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Blog -->
+    @await Component.InvokeAsync("BlogSlide")
+    <!-- End Blog ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Contact-Info -->
+    @await Component.InvokeAsync("ContactInfo")
+    <!-- End Contact-Info ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Contact -->
+    <section class="contact section-padding" data-scroll-index="7">
+        <div class="container">
+            <div class="row">
+                <div class="section-head text-center col-sm-12">
+                    <h4>در ارتباط باشید</h4>
+                    <h6>برای تماس با ما راحت باشید</h6>
+                </div>
+                <div class="offset-lg-2 col-lg-8 offset-md-1 col-md-10">
+                    <form class="form" id="contact-form" method="post" action="php/contact.php">
+
+                        <div class="messages"></div>
+
+                        <div class="controls">
+
+                            <div class="row">
+
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input id="form_name" type="text" name="name" placeholder="نام" required="required">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input id="form_email" type="email" name="email" placeholder="ایمیل" required="required" dir="ltr">
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <input id="form_subject" type="text" name="subject" placeholder="موضوع">
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <textarea id="form_message" name="message" placeholder="پیام" rows="4" required="required"></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 text-center">
+                                    <button type="submit" class="submit"><span>ارسال پیام</span></button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- End Contact ====
+    ======================================= -->

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+    <!-- Metas -->
+    <partial name="_Meta"></partial>
+    <!-- Title  -->
+    <title>@ViewData["Title"] - Zamiux</title>
+    <partial name="_HeaderRefrences"></partial>
+    @await RenderSectionAsync("styles", false)
+</head>
+
+<body>
+    <!-- =====================================
+    ==== Start Loading -->
+    <div class="loading">
+        <div class="text-center middle">
+            <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+        </div>
+    </div>
+    <!-- End Loading ====
+    ======================================= -->
+    <!-- =====================================
+    ==== Start Navbar -->
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <!-- Logo -->              
+            <a class="logo" href="#">
+                @await Component.InvokeAsync("LogoHeader")
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="icon-bar"><i class="fas fa-bars"></i></span>
+            </button>
+            <!-- navbar links -->          
+            @await Component.InvokeAsync("MenuHeader")
+        </div>
+    </nav>
+    <!-- End Navbar ====
+    ======================================= -->
+    @RenderBody()
+    <!-- =====================================
+    ==== Start Footer -->
+    <footer class="text-center">
+        <div class="container">
+            <!-- Logo -->
+            <a class="logo mb-10" href="#">
+                @await Component.InvokeAsync("LogoHeader")
+                @*<img src="/zamiux/img/logo-light.png" alt="logo">*@
+            </a>
+            @await Component.InvokeAsync("FooterSocial")          
+        </div>
+    </footer>
+    <!-- End Footer ====
+    ======================================= -->
+    <!-- jQuery -->
+    <partial name="_FooterRefrences"></partial>
+    @await RenderSectionAsync("scripts", required: false)
+</body>
+</html>

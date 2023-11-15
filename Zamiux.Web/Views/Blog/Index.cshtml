@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Blog";
+}
+
+<!-- ====== Header ======  -->
+<section id="home" class="min-header">
+
+	<div class="v-middle mt-30">
+		<div class="container">
+			<div class="row">
+
+				<div class="text-center col-md-12">
+					<h5>مطلب استاندارد با تصویر</h5>
+					<a href="main.html">خانه</a>
+					<a href="#0">بلاگ</a>
+				</div>
+
+			</div>
+		</div><!-- /row -->
+	</div><!-- /container -->
+</section>
+<!-- ====== End Header ======  -->
+
+<!--====== Blog ======-->
+<section class="blogs section-padding">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-8">
+				<div class="posts">
+
+					<div class="post">
+						<div class="post-img">
+							<a href="blog-single.html" class="full-width">
+								<img src="/zamiux/img/blog/2.jpg" alt="">
+							</a>
+						</div>
+						<div class="content text-center">
+							<div class="post-meta">
+								<div class="post-title">
+									<h5>
+										<a href="blog-single.html">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</a>
+									</h5>
+								</div>
+								<ul class="meta">
+									<li>
+										<a href="#0">
+											<i class="fa fa-user" aria-hidden="true"></i>
+											مدیر
+										</a>
+									</li>
+									<li>
+										<a href="#0">
+											<i class="fa fa-folder-open" aria-hidden="true"></i>
+											طراحی
+										</a>
+									</li>
+									<li>
+										<a href="#0">
+											<i class="fa fa-calendar" aria-hidden="true"></i>
+											18 آبان 1397
+										</a>
+									</li>
+									<li>
+										<a href="#0">
+											<i class="fa fa-tags" aria-hidden="true"></i>
+											طراحی، وب‌سایت، راست‌چین
+										</a>
+									</li>
+									<li>
+										<a href="#0">
+											<i class="fa fa-comments" aria-hidden="true"></i>
+											0 دیدگاه
+										</a>
+									</li>
+								</ul>
+							</div>
+
+							<div class="post-cont">
+								<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی</p>
+							</div>
+
+							<a href="blog-single.html" class="butn butn-bg mt-30"><span>بیشتر بخوانید</span></a>
+
+						</div>
+					</div>
+
+
+					<div class="pagination">
+						<ul>
+							<li>
+								<a href="#0">اولین</a>
+							</li>
+							<li>
+								<a href="#0">1</a>
+							</li>
+							<li>
+								<a href="#0">2</a>
+							</li>
+							<li>
+								<a href="#0">آخرین</a>
+							</li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="side-bar">
+					<div class="widget search">
+						<form>
+							<input type="search" name="" placeholder="جستجو ...">
+							<button type="submite"><i class="fa fa-search" aria-hidden="true"></i></button>
+						</form>
+					</div>
+					@await Component.InvokeAsync("LastBlog")
+
+					@await Component.InvokeAsync("LastComment")
+
+					@await Component.InvokeAsync("BlogCategory")
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!--====== End Blog ======-->
