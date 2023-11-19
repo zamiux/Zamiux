@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 using Zamiux.Web.Context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,7 +10,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ZamiuxDbContext>(
     options =>
     {
-        options.UseSqlServer("Data Source=.;Initial Catalog=ZamiuxDB;Integrated Security=True;TrustServerCertificate=True");
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
     });
 
 // End Service To DB Connection
@@ -32,6 +31,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",

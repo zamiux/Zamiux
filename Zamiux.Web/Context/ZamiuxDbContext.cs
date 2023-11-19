@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Zamiux.Web.Entities.Ability;
+using Zamiux.Web.Entities.User;
 
 namespace Zamiux.Web.Context
 {
@@ -7,8 +9,14 @@ namespace Zamiux.Web.Context
 		public ZamiuxDbContext(DbContextOptions<ZamiuxDbContext> options) :base(options)
 		{ }
 
-		// DbSet
-       
+        // DbSet
+        #region DbSet
+        public DbSet<User> users { get; set; }
+        public DbSet<UserContent> userContents { get; set; }
+        public DbSet<UserAbility> userAbilities { get; set; }
+        public DbSet<UserIntro> userIntros { get; set; }
+        #endregion
+
     }
 }
  

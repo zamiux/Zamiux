@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "درباره من";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="am-pagetitle">
+    <h5 class="am-title">اطلاعات هویتی > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<div class="am-mainpanel">
+    <div class="am-pagebody">
+        <div class="card pd-20 pd-sm-40">
+            <h6 class="card-body-title">@ViewData["Title"]</h6>
+            <p class="mg-b-20 mg-sm-b-30">دراین قسمت می توانید اطلاعات هویتی خود را بروزرسانی کنید.</p>
+            <div class="form-layout">
+                <div class="row mg-b-25">
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label class="form-control-label">نام و نام خانوادگی: <span class="tx-danger">*</span></label>
+                            <input class="form-control" type="text" name="نام و نام خانوادگی" placeholder="نام و نام خانوادگی">
+                        </div>
+                    </div><!-- col-4 -->
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label class="form-control-label">تصویر زمینه اصلی </label>
+                            <label class="custom-file">
+                                <input type="file" id="file2" class="custom-file-input">
+                                <span class="custom-file-control custom-file-control-primary"></span>
+                            </label>
+                        </div>
+                    </div><!-- col-4 -->
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label class="form-control-label">تصویر پروفایل </label>
+                            <label class="custom-file">
+                                <input type="file" class="custom-file-input">
+                                <span class="custom-file-control custom-file-control-inverse"></span>
+                            </label>
+                        </div>
+                    </div><!-- col-4 -->
+                    <div class="col-lg-12">
+                        <div class="form-group mg-b-10-force">
+                            <label class="form-control-label">درباره من: <span class="tx-danger">*</span></label>
+                            <input class="form-control" type="text" name="درباره من" placeholder="درباره من">
+                        </div>
+                    </div><!-- col-8 -->
+                   
+                </div><!-- row -->
+
+                <div class="form-layout-footer">
+                    <input type="submit" value="بروز رسانی اطلاعات" class="btn btn-success mg-r-5"/>
+                    <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="btn btn-secondary">انصراف</a>
+                </div><!-- form-layout-footer -->
+            </div>
+           
+        </div>
+    </div><!-- am-pagebody -->
+</div><!-- am-mainpanel -->
+

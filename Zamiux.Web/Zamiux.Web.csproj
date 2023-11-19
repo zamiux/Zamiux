@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="ViewModels\Ability\" />
+    <Folder Include="wwwroot\admin\" />
     <Folder Include="wwwroot\zamiux\" />
   </ItemGroup>
 
