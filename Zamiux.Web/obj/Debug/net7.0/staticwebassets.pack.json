@@ -725,6 +725,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\hero.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\hero.jpg"
+    },
+    {
       "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css"
     },

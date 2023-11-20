@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U8F11/TQKQ9U20Sk/QBX8bLqykXFP/ClzXCJNvcUkHM=",
+  "Hash": "IfYlilbCpKYPECMxPAdQPuvfvo6cNI9N+7PNMM0bRio=",
   "Source": "Zamiux.Web",
   "BasePath": "_content/Zamiux.Web",
   "Mode": "Default",
@@ -3109,6 +3109,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg",
+      "SourceId": "Zamiux.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\",
+      "BasePath": "_content/Zamiux.Web",
+      "RelativePath": "zamiux/content/img/user/userbackground/backprofile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\hero.jpg",
+      "SourceId": "Zamiux.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\",
+      "BasePath": "_content/Zamiux.Web",
+      "RelativePath": "zamiux/content/img/user/userprofile/hero.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\zamiux\\content\\img\\user\\userprofile\\hero.jpg"
     },
     {
       "Identity": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css",
