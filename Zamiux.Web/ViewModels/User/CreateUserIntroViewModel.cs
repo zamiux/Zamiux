@@ -1,0 +1,11 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Zamiux.Web.ViewModels.User
+{
+    public class CreateUserIntroViewModel
+    {
+        [MaxLength(200,ErrorMessage ="*")]
+        public string? IntroTitle { get; set; }
+        public bool isActive { get; set; } = true;
+    }
+}

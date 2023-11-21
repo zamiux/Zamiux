@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Ability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cQ3JlYXRlX1VzZXJfQWJpbGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Intro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cQ3JlYXRlX1VzZXJfSW50cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,8 +52,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlckNvbnRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Ability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlcl9BYmlsaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Intro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlcl9JbnRyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Create_User_Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNlcnZpY2VcQ3JlYXRlX1VzZXJfU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNlcnZpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/_ViewImports.cshtml]

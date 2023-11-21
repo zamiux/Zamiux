@@ -1,6 +1,6 @@
-﻿@model Zamiux.Web.ViewModels.User.ListUserIntroViewModel;
+﻿@model Zamiux.Web.ViewModels.Ability.ListUserAbilityViewModel
 @{
-    ViewData["Title"] = "لیست تخصص هام";
+    ViewData["Title"] = "لیست توانمندی ها";
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
@@ -15,59 +15,59 @@
             <h6 class="card-body-title">نمایش @ViewData["Title"]</h6>
             <div class="row">
                 <div class="col-sm-6 col-md-3">
-                    
                 </div><!-- col-sm-3 -->
 
                 <div class="col-sm-6 col-md-3 mg-t-20 mg-sm-t-0">
-                    
                 </div><!-- col-sm-3 -->
 
                 <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
-                   
                 </div><!-- col-sm-3 -->
 
                 <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
-                    <a asp-area="Admin" asp-controller="UserInfo" asp-action="Create_User_Intro" class="btn btn-primary btn-block mg-b-10"> ثپت تخصص جدید </a>
+                    <a asp-area="Admin" asp-controller="UserInfo" asp-action="Create_User_Ability" class="btn btn-primary btn-block mg-b-10"> ثپت توانمندی جدید </a>
                 </div><!-- col-sm-3 -->
-     
+
             </div>
             <div class="table-responsive">
                 <table class="table table-hover table-bordered mg-b-0">
                     <thead class="bg-info">
                         <tr>
                             <th>عنوان</th>
+                            <th>درصد پبیشرفت</th>
+                            <th>اولویت نمایش</th>
                             <th>وضعیت</th>
                             <th>عملیات</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @if (Model != null && Model.userIntros.Any())
+                        @if (Model != null && Model.userAbilities.Any())
                         {
-                            foreach (var useri in Model.userIntros)
+                            foreach (var useri in Model.userAbilities)
                             {
                                 <tr>
-                                    <td>@useri.IntroTitle</td>
+                                    <td>@useri.AbilityTitle</td>
+                                    <td>@useri.AbilityPercent</td>
+                                    <td>@useri.AbilityPriority</td>
                                     <td>
                                         @if (useri.isActive == true)
                                         {
-                                            <span>تخصص فعال</span>
+                                            <span>توانمندی فعال</span>
                                         }
                                         else
                                         {
-                                            <span>تخصص غیرفعال</span>
+                                            <span>توانمندی غیرفعال</span>
                                         }
                                     </td>
                                     <td>
-                                       
                                     </td>
                                 </tr>
                             }
-                        }  
+                        }
                     </tbody>
                 </table>
             </div><!-- table-responsive -->
 
-       
+
         </div>
     </div><!-- am-pagebody -->
 </div><!-- am-mainpanel -->

@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\Ability\" />
     <Folder Include="wwwroot\admin\" />
     <Folder Include="wwwroot\zamiux\content\img\user\userprofile\" />
     <Folder Include="wwwroot\zamiux\content\img\user\userbackground\" />

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Zamiux.Web.Context;
 
@@ -10,9 +11,11 @@ using Zamiux.Web.Context;
 namespace Zamiux.Web.Migrations
 {
     [DbContext(typeof(ZamiuxDbContext))]
-    partial class ZamiuxDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231121134732_UserServices")]
+    partial class UserServices
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

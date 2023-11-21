@@ -1,6 +1,6 @@
-﻿@model Zamiux.Web.ViewModels.User.ListUserIntroViewModel;
+﻿@model Zamiux.Web.ViewModels.Service.ListServiceViewModel
 @{
-    ViewData["Title"] = "لیست تخصص هام";
+    ViewData["Title"] = "لیست خدمات";
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
@@ -15,59 +15,58 @@
             <h6 class="card-body-title">نمایش @ViewData["Title"]</h6>
             <div class="row">
                 <div class="col-sm-6 col-md-3">
-                    
                 </div><!-- col-sm-3 -->
 
                 <div class="col-sm-6 col-md-3 mg-t-20 mg-sm-t-0">
-                    
                 </div><!-- col-sm-3 -->
 
                 <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
-                   
                 </div><!-- col-sm-3 -->
 
                 <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
-                    <a asp-area="Admin" asp-controller="UserInfo" asp-action="Create_User_Intro" class="btn btn-primary btn-block mg-b-10"> ثپت تخصص جدید </a>
+                    <a asp-area="Admin" asp-controller="UserService" asp-action="Create_User_Service" class="btn btn-primary btn-block mg-b-10"> ثپت خدمات جدید </a>
                 </div><!-- col-sm-3 -->
-     
+
             </div>
             <div class="table-responsive">
                 <table class="table table-hover table-bordered mg-b-0">
                     <thead class="bg-info">
                         <tr>
                             <th>عنوان</th>
+                            <th>آیگون</th>
                             <th>وضعیت</th>
                             <th>عملیات</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @if (Model != null && Model.userIntros.Any())
+                        @if (Model != null && Model.ListServices.Any())
                         {
-                            foreach (var useri in Model.userIntros)
+                            foreach (var SericeLst in Model.ListServices)
                             {
                                 <tr>
-                                    <td>@useri.IntroTitle</td>
+                                    <td>@SericeLst.ServiceTitle</td>
+                                    <td>@SericeLst.ServiceIcon</td>
                                     <td>
-                                        @if (useri.isActive == true)
+                                        @if (SericeLst.isActive == true)
                                         {
-                                            <span>تخصص فعال</span>
+                                            <span>خدمات فعال</span>
                                         }
                                         else
                                         {
-                                            <span>تخصص غیرفعال</span>
+                                            <span>خدمات غیرفعال</span>
                                         }
                                     </td>
                                     <td>
-                                       
                                     </td>
                                 </tr>
                             }
-                        }  
+                        }
                     </tbody>
                 </table>
             </div><!-- table-responsive -->
 
-       
+
         </div>
     </div><!-- am-pagebody -->
-</div><!-- am-mainpanel -->
+</div>
+<!-- am-mainpanel

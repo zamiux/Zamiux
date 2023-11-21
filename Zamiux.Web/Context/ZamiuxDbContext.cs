@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Zamiux.Web.Entities.Ability;
+using Zamiux.Web.Entities.Services;
 using Zamiux.Web.Entities.User;
 
 namespace Zamiux.Web.Context
@@ -15,6 +16,7 @@ namespace Zamiux.Web.Context
         public DbSet<UserContent> userContents { get; set; }
         public DbSet<UserAbility> userAbilities { get; set; }
         public DbSet<UserIntro> userIntros { get; set; }
+        public DbSet<UserService> UserServices { get; set; }
         #endregion
 
     }

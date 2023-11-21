@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Zamiux.Web.Context;
+using Zamiux.Web.Entities.Ability;
 using Zamiux.Web.Entities.User;
+using Zamiux.Web.ViewModels.Ability;
 using Zamiux.Web.ViewModels.User;
 
 namespace Zamiux.Web.Areas.Admin.Controllers
@@ -84,6 +86,72 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         public IActionResult Create_User_Intro()
         {
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create_User_Intro(CreateUserIntroViewModel createUserIntro)
+        {
+            if (ModelState.IsValid)
+            {
+                //create instance of Model anf Fill with ViewModel
+                UserIntro intro = new UserIntro() {
+                    IntroTitle = createUserIntro.IntroTitle,
+                    isActive = createUserIntro.isActive
+                };
+
+                //Save Data To Model
+                _context.userIntros.Add(intro);
+
+                //Save Data To DB
+                _context.SaveChanges();
+
+                return RedirectToAction("User_Intro", "UserInfo");
+            }
+            return View(createUserIntro);
+        }
+        #endregion
+
+        #region User Ability List
+        public IActionResult User_Ability()
+        {
+            ListUserAbilityViewModel listUserAbility = new ListUserAbilityViewModel()
+            {
+                userAbilities = _context.userAbilities.ToList()
+            };
+            return View(listUserAbility);
+        }
+        #endregion
+
+        #region Create User Ability
+        [HttpGet]
+        public IActionResult Create_User_Ability()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create_User_Ability(CreateUserAbilityViewModel createUserAbility)
+        {
+            if (ModelState.IsValid)
+            {
+                //create instance of Model anf Fill with ViewModel
+                UserAbility userAbility_data = new UserAbility()
+                {
+                    AbilityTitle = createUserAbility.AbilityTitle,
+                    AbilityPercent = createUserAbility.AbilityPercent,
+                    AbilityPriority = createUserAbility.AbilityPriority,
+                    isActive = createUserAbility.isActive
+                };
+
+                //Save Data To Model
+                _context.userAbilities.Add(userAbility_data);
+
+                //Save Data To DB
+                _context.SaveChanges();
+
+                return RedirectToAction("User_Ability", "UserInfo");
+            }
+            return View(createUserAbility);
         }
         #endregion
     }

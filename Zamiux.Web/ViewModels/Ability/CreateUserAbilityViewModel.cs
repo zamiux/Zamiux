@@ -1,19 +1,14 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Zamiux.Web.Entities.Ability
+namespace Zamiux.Web.ViewModels.Ability
 {
-    public class UserAbility
+    public class CreateUserAbilityViewModel
     {
-        [Key]
-        public int Id { get; set; }
-
-        [MaxLength(200)]
+        [MaxLength(200,ErrorMessage ="*")]
         public string? AbilityTitle { get; set; }
 
-        [MaxLength(20)]
         public int AbilityPercent { get; set; } = 0;
 
-        [MaxLength(20)]
         public int AbilityPriority { get; set; } = 0;
 
         public bool isActive { get; set; } = true;
