@@ -49,6 +49,37 @@ namespace Zamiux.Web.Migrations
                     b.ToTable("userAbilities");
                 });
 
+            modelBuilder.Entity("Zamiux.Web.Entities.Contact.InfoContact", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ContactAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContactEmailOne")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContactEmailTwo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContactLogo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContactLogoDark")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContactPhone")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("InfoContacts");
+                });
+
             modelBuilder.Entity("Zamiux.Web.Entities.Services.UserService", b =>
                 {
                     b.Property<int>("Id")
