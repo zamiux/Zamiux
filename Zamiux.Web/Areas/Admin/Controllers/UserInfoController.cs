@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Zamiux.Web.Context;
 using Zamiux.Web.Entities.Ability;
+using Zamiux.Web.Entities.Social;
 using Zamiux.Web.Entities.User;
 using Zamiux.Web.ViewModels.Ability;
+using Zamiux.Web.ViewModels.Social;
 using Zamiux.Web.ViewModels.User;
 
 namespace Zamiux.Web.Areas.Admin.Controllers
@@ -152,6 +154,50 @@ namespace Zamiux.Web.Areas.Admin.Controllers
                 return RedirectToAction("User_Ability", "UserInfo");
             }
             return View(createUserAbility);
+        }
+        #endregion
+
+        #region User Social List
+        public IActionResult User_Social()
+        {
+            ListUserSocialViewModel SocialList = new ListUserSocialViewModel()
+            {
+                getSocials = _context.UserSocials.ToList()
+            };
+            return View(SocialList);
+        }
+        #endregion
+
+        #region Create User Social
+        [HttpGet]
+        public IActionResult Create_User_Social()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create_User_Social(CreateUserSocialViewModel createUserSocial)
+        {
+            if (ModelState.IsValid)
+            {
+                //create instance of Model anf Fill with ViewModel
+                UserSocial UserSocial_Data = new UserSocial()
+                {
+                    SocialTitle = createUserSocial.SocialTitle,
+                    SocialIcon = createUserSocial.SocialIcon,
+                    SocialLink = createUserSocial.SocialLink,
+                    isActive = createUserSocial.isActive
+                };
+
+                //Save Data To Model
+                _context.UserSocials.Add(UserSocial_Data);
+
+                //Save Data To DB
+                _context.SaveChanges();
+
+                return RedirectToAction("User_Social", "UserInfo");
+            }
+            return View(createUserSocial);
         }
         #endregion
     }

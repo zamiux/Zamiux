@@ -2,6 +2,7 @@
 using Zamiux.Web.Entities.Ability;
 using Zamiux.Web.Entities.Contact;
 using Zamiux.Web.Entities.Services;
+using Zamiux.Web.Entities.Social;
 using Zamiux.Web.Entities.User;
 
 namespace Zamiux.Web.Context
@@ -19,6 +20,8 @@ namespace Zamiux.Web.Context
         public DbSet<UserIntro> userIntros { get; set; }
         public DbSet<UserService> UserServices { get; set; }
         public DbSet<InfoContact> InfoContacts { get; set; }
+        public DbSet<UserSocial> UserSocials { get; set; }
+        public DbSet<ContactMsg> ContactMsgs { get; set; }
         #endregion
 
     }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IfYlilbCpKYPECMxPAdQPuvfvo6cNI9N+7PNMM0bRio=",
+  "Hash": "uCP5a2RTilg4cDwh3bcuoTpnYnN9ydpbhGrZT/RePKw=",
   "Source": "Zamiux.Web",
   "BasePath": "_content/Zamiux.Web",
   "Mode": "Default",
@@ -3109,6 +3109,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-dark.png",
+      "SourceId": "Zamiux.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\",
+      "BasePath": "_content/Zamiux.Web",
+      "RelativePath": "zamiux/content/img/logo/logo-dark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\zamiux\\content\\img\\logo\\logo-dark.png"
+    },
+    {
+      "Identity": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-light.png",
+      "SourceId": "Zamiux.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\",
+      "BasePath": "_content/Zamiux.Web",
+      "RelativePath": "zamiux/content/img/logo/logo-light.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\zamiux\\content\\img\\logo\\logo-light.png"
     },
     {
       "Identity": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg",

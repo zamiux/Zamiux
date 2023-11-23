@@ -1,4 +1,5 @@
-﻿@{
+﻿@model Zamiux.Web.ViewModels.Contact.SendContactMsgViewModel
+@{
     ViewData["Title"] = "Home";
 }
  <!-- =====================================
@@ -56,7 +57,7 @@
                     <h6>برای تماس با ما راحت باشید</h6>
                 </div>
                 <div class="offset-lg-2 col-lg-8 offset-md-1 col-md-10">
-                    <form class="form" id="contact-form" method="post" action="php/contact.php">
+                    <form class="form" method="post" asp-controller="Home" asp-action="Index" asp-area="">
 
                         <div class="messages"></div>
 
@@ -66,27 +67,27 @@
 
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input id="form_name" type="text" name="name" placeholder="نام" required="required">
+                                        <input id="form_name" type="text" asp-for="Fullname" placeholder="نام" required="required">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input id="form_email" type="email" name="email" placeholder="ایمیل" required="required" dir="ltr">
+                                        <input id="form_email" type="email" asp-for="UserEmail" placeholder="ایمیل" required="required" dir="ltr">
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input id="form_subject" type="text" name="subject" placeholder="موضوع">
+                                        <input id="form_subject" type="text" asp-for="UserSubject" placeholder="موضوع">
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <textarea id="form_message" name="message" placeholder="پیام" rows="4" required="required"></textarea>
+                                        <textarea id="form_message" asp-for="UserMessage" placeholder="پیام" rows="4"></textarea>
                                     </div>
                                 </div>
 
                                 <div class="col-md-12 text-center">
-                                    <button type="submit" class="submit"><span>ارسال پیام</span></button>
+                                <input type="submit" style="text-align: center;" class="submit" value="ارسال پیام" />
                                 </div>
 
                             </div>

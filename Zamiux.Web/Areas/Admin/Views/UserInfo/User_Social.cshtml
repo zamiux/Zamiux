@@ -1,0 +1,73 @@
+﻿@model Zamiux.Web.ViewModels.Social.ListUserSocialViewModel
+@{
+    ViewData["Title"] = "شبکه های اجتماعی";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="am-pagetitle">
+    <h5 class="am-title">ارتباطات > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<div class="am-mainpanel">
+    <div class="am-pagebody">
+        <div class="card pd-20 pd-sm-40">
+            <h6 class="card-body-title">نمایش @ViewData["Title"]</h6>
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                </div><!-- col-sm-3 -->
+
+                <div class="col-sm-6 col-md-3 mg-t-20 mg-sm-t-0">
+                </div><!-- col-sm-3 -->
+
+                <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
+                </div><!-- col-sm-3 -->
+
+                <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
+                    <a asp-area="Admin" asp-controller="UserInfo" asp-action="Create_User_Social" class="btn btn-primary btn-block mg-b-10"> ثپت شبکه اجتماعی جدید </a>
+                </div><!-- col-sm-3 -->
+
+            </div>
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered mg-b-0">
+                    <thead class="bg-info">
+                        <tr>
+                            <th>عنوان</th>
+                            <th>آیکون</th>
+                            <th>لینک</th>
+                            <th>وضعیت</th>
+                            <th>عملیات</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.getSocials.Any())
+                        {
+                            foreach (var social in Model.getSocials)
+                            {
+                                <tr>
+                                    <td>@social.SocialTitle</td>
+                                    <td>@social.SocialIcon</td>
+                                    <td>@social.SocialLink</td>
+                                    <td>
+                                        @if (social.isActive == true)
+                                        {
+                                            <span>شبکه فعال</span>
+                                        }
+                                        else
+                                        {
+                                            <span>شبکه غیرفعال</span>
+                                        }
+                                    </td>
+                                    <td>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div><!-- table-responsive -->
+
+
+        </div>
+    </div><!-- am-pagebody -->
+</div><!-- am-mainpanel -->

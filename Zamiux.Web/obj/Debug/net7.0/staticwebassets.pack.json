@@ -725,6 +725,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-dark.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-light.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\logo-light.png"
+    },
+    {
       "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg"
     },

@@ -49,6 +49,33 @@ namespace Zamiux.Web.Migrations
                     b.ToTable("userAbilities");
                 });
 
+            modelBuilder.Entity("Zamiux.Web.Entities.Contact.ContactMsg", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Fullname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserEmail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserMessage")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserSubject")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ContactMsgs");
+                });
+
             modelBuilder.Entity("Zamiux.Web.Entities.Contact.InfoContact", b =>
                 {
                     b.Property<int>("Id")
@@ -103,6 +130,31 @@ namespace Zamiux.Web.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("UserServices");
+                });
+
+            modelBuilder.Entity("Zamiux.Web.Entities.Social.UserSocial", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("SocialIcon")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SocialLink")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SocialTitle")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("isActive")
+                        .HasColumnType("bit");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("UserSocials");
                 });
 
             modelBuilder.Entity("Zamiux.Web.Entities.User.User", b =>

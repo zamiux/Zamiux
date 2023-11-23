@@ -1,0 +1,88 @@
+﻿@using Zamiux.Web.Utils;
+@model Zamiux.Web.ViewModels.Contact.UpdateInfoContactViewModel
+@{
+    ViewData["Title"] = "تنظیمات سایت";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+
+<div class="am-pagetitle">
+    <h5 class="am-title">داشبورد مدیریت > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<div class="am-mainpanel">
+    <div class="am-pagebody">
+        <div class="card pd-20 pd-sm-40">
+            <h6 class="card-body-title">@ViewData["Title"]</h6>
+            <p class="mg-b-20 mg-sm-b-30">دراین قسمت می توانید @ViewData["Title"] خود را بروزرسانی کنید.</p>
+            <div class="form-layout">
+                <form method="post" asp-area="Admin" asp-controller="Home" asp-action="SiteSetting">
+                    <div class="row mg-b-25">
+                        <div class="col-lg-3">
+                            <div class="form-group">
+                                <label class="form-control-label">شماره تماس: <span class="tx-danger" asp-validation-for="ContactPhone">*</span></label>
+                                <input value="@ViewBag.getContactPhone" class="form-control" type="text" asp-for="ContactPhone">
+                            </div>
+                        </div><!-- col-3 -->
+                        <div class="col-lg-3">
+                            <div class="form-group">
+                                <label class="form-control-label">آدرس: <span class="tx-danger" asp-validation-for="ContactAddress">*</span></label>
+                                <input value="@ViewBag.getContactAddress" class="form-control" type="text" asp-for="ContactAddress">
+                            </div>
+                        </div><!-- col-3 -->
+                        <div class="col-lg-3">
+                            <div class="form-group">
+                                <label class="form-control-label">ایمیل اول: <span class="tx-danger" asp-validation-for="ContactEmailOne">*</span></label>
+                                <input value="@ViewBag.getContactEmailOne" class="form-control" type="text" asp-for="ContactEmailOne">
+                            </div>
+                        </div><!-- col-3 -->
+                        <div class="col-lg-3">
+                            <div class="form-group">
+                                <label class="form-control-label">ایمیل دوم: <span class="tx-danger" asp-validation-for="ContactEmailTwo">*</span></label>
+                                <input value="@ViewBag.getContactEmailTwo" class="form-control" type="text" asp-for="ContactEmailTwo">
+                            </div>
+                        </div><!-- col-3 -->
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label class="form-control-label">تصویر لوگو </label>
+                                <label class="custom-file">
+                                    <input type="file" id="file_background" asp-for="ContactLogo" class="custom-file-input">
+                                    <span class="custom-file-control custom-file-control-primary"></span>
+                                </label>
+                                <hr />
+                                <div class="card bd-0 wd-xs-300">
+                                    <a target="_blank" href="@(PathExtension.logoContentOrgin + ViewBag.getContactLogo)"> <img class="card-img-top img-fluid" src="@(PathExtension.logoContentOrgin + ViewBag.getContactLogo)" alt="Image"></a>
+                                </div>
+                            </div>
+                        </div><!-- col-4 -->
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label class="form-control-label">تصویر لوگو (دارک)  </label>
+                                <label class="custom-file">
+                                    <input type="file" id="file_ImageProfile" asp-for="ContactLogoDark" class="custom-file-input">
+                                    <span class="custom-file-control custom-file-control-inverse"></span>
+
+                                </label>
+                                <hr />
+                                <div class="card bd-0 wd-xs-300">
+                                    <a href="@(PathExtension.logoContentOrgin + ViewBag.getContactLogoDark)" target="_blank"><img class="card-img-top img-fluid" src="@(PathExtension.logoContentOrgin + ViewBag.getContactLogoDark)" alt="Image"></a>
+                                </div>
+                            </div>
+                        </div><!-- col-4 -->
+                       
+                    </div><!-- row -->
+
+
+                    <div class="form-layout-footer">
+                        <input type="submit" value="بروز رسانی اطلاعات" class="btn btn-success mg-r-5" />
+                        <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="btn btn-secondary">انصراف</a>
+                    </div><!-- form-layout-footer -->
+                </form>
+            </div>
+
+        </div>
+    </div><!-- am-pagebody -->
+</div><!-- am-mainpanel -->

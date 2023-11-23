@@ -22,7 +22,7 @@ namespace Zamiux.Web.Areas.Admin.Controllers
 
 		#region Site Setting
 		[HttpGet]
-		public IActionResult SiteSetting()
+		public IActionResult sitesetting()
 		{
             //get data from model
             List<InfoContact> contacts = new List<InfoContact>();
@@ -39,7 +39,7 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult SiteSetting(UpdateInfoContactViewModel updateInfo)
+        public IActionResult sitesetting(UpdateInfoContactViewModel updateInfo)
         {
             if (ModelState.IsValid)
             {               

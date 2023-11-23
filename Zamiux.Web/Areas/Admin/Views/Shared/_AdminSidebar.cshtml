@@ -54,11 +54,21 @@
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link with-sub">
-                        <i class="fa fa-tasks"></i>
+                        <i class="fa fa-cog"></i>
                         <span>تنظیمات</span>
                     </a>
                     <ul class="nav-sub">
-                        <li class="nav-item"><a asp-area="Admin" asp-controller="Home" asp-action="ُSiteSetting" class="nav-link">تنظیمات اصلی سایت</a></li>
+                        <li class="nav-item"><a asp-area="Admin" asp-controller="Home" asp-action="sitesetting" class="nav-link">تنظیمات اصلی سایت</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#" class="nav-link with-sub">
+                        <i class="icon ion-at"></i>
+                        <span>ارتباطات</span>
+                    </a>
+                    <ul class="nav-sub">
+                        <li class="nav-item"><a asp-area="Admin" asp-controller="UserInfo" asp-action="User_Social" class="nav-link">شبکه اجتماعی</a></li>
                     </ul>
                 </li>
                
