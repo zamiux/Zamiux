@@ -44,7 +44,7 @@
                         {
                             foreach (var useri in Model.userAbilities)
                             {
-                                <tr>
+                                <tr id="ability_@useri.Id">
                                     <td>@useri.AbilityTitle</td>
                                     <td>@useri.AbilityPercent</td>
                                     <td>@useri.AbilityPriority</td>
@@ -59,6 +59,8 @@
                                         }
                                     </td>
                                     <td>
+                                        <a asp-area="Admin" asp-controller="UserInfo" asp-action="Edit_User_Ability" asp-route-id="@useri.Id" class="btn btn-warning btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-edit"></i></div></a>
+                                        <button onclick="deleteuserability(@useri.Id)" class="btn btn-danger btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-trash-a"></i></div></button>
                                     </td>
                                 </tr>
                             }

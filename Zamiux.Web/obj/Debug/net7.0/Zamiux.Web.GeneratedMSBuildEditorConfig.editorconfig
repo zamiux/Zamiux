@@ -56,6 +56,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cQ3JlYXRlX1VzZXJfU29jaWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Ability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cRWRpdF9Vc2VyX0FiaWxpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Intro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cRWRpdF9Vc2VyX0ludHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/UserContent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlckNvbnRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

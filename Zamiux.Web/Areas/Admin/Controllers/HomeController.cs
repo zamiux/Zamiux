@@ -2,6 +2,8 @@
 using Zamiux.Web.Context;
 using Zamiux.Web.Entities.Contact;
 using Zamiux.Web.Entities.User;
+using Zamiux.Web.Utils;
+using Zamiux.Web.Utils.ImageHandler;
 using Zamiux.Web.ViewModels.Contact;
 
 namespace Zamiux.Web.Areas.Admin.Controllers
@@ -49,13 +51,31 @@ namespace Zamiux.Web.Areas.Admin.Controllers
                 // get data from model
                 InfoContact_Data = _context.InfoContacts.FirstOrDefault(x => x.Id == 1);
 
+                #region Old Images Loaded
+                string ImageLogo = updateInfo.ContactLogo_old;
+                string ImageLogoDark = updateInfo.ContactLogoDark_old;
+                #endregion
+
+                #region Upload Logo
+                ImageLogo = Guid.NewGuid().ToString("N") + Path.GetExtension(updateInfo.ImageContactLogo.FileName);
+                updateInfo.ImageContactLogo.AddImageToServer(ImageLogo, PathExtension.logoContentServer, 100, 100, PathExtension.logoContentServerThumb, InfoContact_Data.ContactLogo);
+
+                #endregion
+
+                #region Upload Logo Dark
+                ImageLogoDark = Guid.NewGuid().ToString("N") + Path.GetExtension(updateInfo.ImageContactLogoDark.FileName);
+                updateInfo.ImageContactLogoDark.AddImageToServer(ImageLogoDark, PathExtension.logoContentServerDark, 100, 100, PathExtension.logoContentServerDarkThumb, InfoContact_Data.ContactLogoDark);
+
+                #endregion
+
+
                 //update model from viewmodel
                 InfoContact_Data.ContactPhone = updateInfo.ContactPhone;
                 InfoContact_Data.ContactAddress = updateInfo.ContactAddress;
                 InfoContact_Data.ContactEmailOne = updateInfo.ContactEmailOne;
                 InfoContact_Data.ContactEmailTwo = updateInfo.ContactEmailTwo;
-                InfoContact_Data.ContactLogoDark = updateInfo.ContactLogoDark;
-                InfoContact_Data.ContactLogo = updateInfo.ContactLogo;
+                InfoContact_Data.ContactLogoDark = ImageLogoDark;
+                InfoContact_Data.ContactLogo = ImageLogo;
 
                 //save new data to model and DB
                 _context.InfoContacts.Update(InfoContact_Data);

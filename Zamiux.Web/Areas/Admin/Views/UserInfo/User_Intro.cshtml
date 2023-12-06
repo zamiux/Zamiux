@@ -45,7 +45,7 @@
                         {
                             foreach (var useri in Model.userIntros)
                             {
-                                <tr>
+                                <tr id="userintro_@useri.Id">
                                     <td>@useri.IntroTitle</td>
                                     <td>
                                         @if (useri.isActive == true)
@@ -58,7 +58,8 @@
                                         }
                                     </td>
                                     <td>
-                                       
+                                        <a asp-area="Admin" asp-controller="UserInfo" asp-action="Edit_User_Intro" asp-route-id="@useri.Id" class="btn btn-warning btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-edit"></i></div></a>
+                                        <button onclick="deleteuserintro(@useri.Id)"  class="btn btn-danger btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-trash-a"></i></div></button>
                                     </td>
                                 </tr>
                             }

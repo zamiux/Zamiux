@@ -19,7 +19,7 @@
             <h6 class="card-body-title">@ViewData["Title"]</h6>
             <p class="mg-b-20 mg-sm-b-30">دراین قسمت می توانید @ViewData["Title"] خود را بروزرسانی کنید.</p>
             <div class="form-layout">
-                <form method="post" asp-area="Admin" asp-controller="Home" asp-action="SiteSetting">
+                <form method="post" asp-area="Admin" asp-controller="Home" asp-action="SiteSetting" enctype="multipart/form-data">
                     <div class="row mg-b-25">
                         <div class="col-lg-3">
                             <div class="form-group">
@@ -49,12 +49,12 @@
                             <div class="form-group">
                                 <label class="form-control-label">تصویر لوگو </label>
                                 <label class="custom-file">
-                                    <input type="file" id="file_background" asp-for="ContactLogo" class="custom-file-input">
+                                    <input type="file" id="file_background" name="ImageContactLogo" class="custom-file-input" ImageInput="1">
                                     <span class="custom-file-control custom-file-control-primary"></span>
                                 </label>
                                 <hr />
                                 <div class="card bd-0 wd-xs-300">
-                                    <a target="_blank" href="@(PathExtension.logoContentOrgin + ViewBag.getContactLogo)"> <img class="card-img-top img-fluid" src="@(PathExtension.logoContentOrgin + ViewBag.getContactLogo)" alt="Image"></a>
+                                    <a target="_blank" href="@(PathExtension.logoContentOrgin + ViewBag.getContactLogo)"> <img style="width:120px;height:100px" class="card-img-top img-fluid" src="@(PathExtension.logoContentOrginThumb + ViewBag.getContactLogo)" alt="Image" ImageFile="1"></a>
                                 </div>
                             </div>
                         </div><!-- col-4 -->
@@ -62,13 +62,13 @@
                             <div class="form-group">
                                 <label class="form-control-label">تصویر لوگو (دارک)  </label>
                                 <label class="custom-file">
-                                    <input type="file" id="file_ImageProfile" asp-for="ContactLogoDark" class="custom-file-input">
+                                    <input type="file" id="file_ImageProfile" name="ImageContactLogoDark" class="custom-file-input" ImageInput="2">
                                     <span class="custom-file-control custom-file-control-inverse"></span>
 
                                 </label>
                                 <hr />
                                 <div class="card bd-0 wd-xs-300">
-                                    <a href="@(PathExtension.logoContentOrgin + ViewBag.getContactLogoDark)" target="_blank"><img class="card-img-top img-fluid" src="@(PathExtension.logoContentOrgin + ViewBag.getContactLogoDark)" alt="Image"></a>
+                                    <a href="@(PathExtension.logoContentOrginDark + ViewBag.getContactLogoDark)" target="_blank"><img style="width:120px;height:100px" class="card-img-top img-fluid" src="@(PathExtension.logoContentOrginDarkThumb + ViewBag.getContactLogoDark)" alt="Image" ImageFile="2"></a>
                                 </div>
                             </div>
                         </div><!-- col-4 -->

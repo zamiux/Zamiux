@@ -15,5 +15,11 @@ namespace Zamiux.Web.ViewModels.User
 
         [MaxLength(1000)]
         public string? UserImageBackgroundUrl { get; set; }
+
+        public string? ImageProfile_old { get; set; }
+        public string? ImageBackground_old { get; set; }
+        public IFormFile? ImageProfileUrl { get; set; }
+        public IFormFile? ImageBackgroundUrl { get; set; }
+
     }
 }

@@ -1,4 +1,6 @@
-﻿<section class="section-box" data-scroll-index="1">
+﻿@model Zamiux.Web.ViewModels.Home.SkillViewModel
+
+<section class="section-box" data-scroll-index="1">
     <div class="container-fluid">
         <div class="row">
 
@@ -15,32 +17,29 @@
                     <div class="skills">
                         <div class="row">
                             <div class="col-md-6 mb-sm30">
-                                <div class="skill-item">
-                                    <h6>طراحی وب</h6>
-                                    <div class="skill-progress">
-                                        <div class="progres" data-value="90%"></div>
+                                
+                                @foreach (var ability_even in Model.Abilities.Where(x => x.AbilityPriority % 2 != 0))
+                                {
+                                    <div class="skill-item">
+                                        <h6>@ability_even.AbilityTitle</h6>
+                                        <div class="skill-progress">
+                                            <div class="progres" data-value="@ability_even.AbilityPercent%"></div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="skill-item">
-                                    <h6>برندسازی</h6>
-                                    <div class="skill-progress">
-                                        <div class="progres" data-value="75%"></div>
-                                    </div>
-                                </div>
+                                }
+                                
                             </div>
                             <div class="col-md-6">
-                                <div class="skill-item">
-                                    <h6>توسعه</h6>
-                                    <div class="skill-progress">
-                                        <div class="progres" data-value="80%"></div>
+                                @foreach (var ability_odd in Model.Abilities.Where(x => x.AbilityPriority % 2 == 0))
+                                {
+                                    <div class="skill-item">
+                                        <h6>@ability_odd.AbilityTitle</h6>
+                                        <div class="skill-progress">
+                                            <div class="progres" data-value="@ability_odd.AbilityPercent%"></div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="skill-item">
-                                    <h6>توسعه</h6>
-                                    <div class="skill-progress">
-                                        <div class="progres" data-value="80%"></div>
-                                    </div>
-                                </div>
+                                }
+                                
                             </div>
                         </div>
                     </div>

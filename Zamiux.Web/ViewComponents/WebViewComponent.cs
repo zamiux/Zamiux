@@ -1,12 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Zamiux.Web.Context;
+using Zamiux.Web.Entities.Ability;
+using Zamiux.Web.Entities.User;
+using Zamiux.Web.ViewModels.Home;
 
 namespace Zamiux.Web.ViewComponents
 {
+    
     #region Menu
     public class MenuHeaderViewComponent : ViewComponent
     {
+        
         public async Task<IViewComponentResult> InvokeAsync()
         {
+            
             return View("MenuHeader");
         }
     }
@@ -25,9 +32,26 @@ namespace Zamiux.Web.ViewComponents
     #region Slider
     public class SliderViewComponent : ViewComponent
     {
+        #region Ctor
+        private ZamiuxDbContext _context;
+        public SliderViewComponent(ZamiuxDbContext context)
+        {
+            _context = context;
+        }
+        #endregion
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            return View("Slider");
+            List<UserContent> usernameContent = new List<UserContent>();
+            usernameContent = _context.userContents.Where(x => x.Id == 1).ToList();
+
+            SliderViewModel sliderViewModel = new SliderViewModel
+            {
+                Fullname = usernameContent[0].FullName,
+                intros = _context.userIntros.Where(x=>x.isActive == true).ToList(),
+                UserBackground = usernameContent[0].UserImageBackgroundUrl
+            };
+
+            return View("Slider", sliderViewModel);
         }
     }
     #endregion
@@ -55,9 +79,22 @@ namespace Zamiux.Web.ViewComponents
     #region Skill
     public class SkillViewComponent : ViewComponent
     {
+        #region Ctor
+        private ZamiuxDbContext _context;
+        public SkillViewComponent(ZamiuxDbContext context)
+        {
+            _context = context;
+        }
+        #endregion
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            return View("Skill");
+            List<UserAbility> userAbilities = new List<UserAbility>();
+            userAbilities = _context.userAbilities.Where(x => x.isActive == true).ToList();
+
+            SkillViewModel skills = new SkillViewModel() {
+                Abilities = userAbilities
+            };
+            return View("Skill", skills);
         }
     }
     #endregion

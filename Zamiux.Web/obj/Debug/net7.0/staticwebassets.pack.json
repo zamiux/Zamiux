@@ -209,6 +209,10 @@
       "PackagePath": "staticwebassets\\admin\\js\\chart.sparkline.js"
     },
     {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.js"
+    },
+    {
       "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
     },
@@ -725,20 +729,56 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\3c98c45b509f4eefa749f52785e62419.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\3c98c45b509f4eefa749f52785e62419.png"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\Thumb\\3c98c45b509f4eefa749f52785e62419.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\Thumb\\3c98c45b509f4eefa749f52785e62419.png"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\dark\\9dbb24e0df6f4d29add6b775da7c848a.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\dark\\9dbb24e0df6f4d29add6b775da7c848a.png"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\dark\\Thumb\\9dbb24e0df6f4d29add6b775da7c848a.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\dark\\Thumb\\9dbb24e0df6f4d29add6b775da7c848a.png"
+    },
+    {
       "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-dark.png",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\logo-dark.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-light.png",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\logo-light.png"
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\15bbf3fea5d0490f8ee589bf9796cffd.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\15bbf3fea5d0490f8ee589bf9796cffd.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\backprofile.jpg"
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\Thumb\\15bbf3fea5d0490f8ee589bf9796cffd.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\Thumb\\15bbf3fea5d0490f8ee589bf9796cffd.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\hero.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\hero.jpg"
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\Thumb\\be445b22f7514283a54e6a042007bffa.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\Thumb\\be445b22f7514283a54e6a042007bffa.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\be445b22f7514283a54e6a042007bffa.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\be445b22f7514283a54e6a042007bffa.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\Thumb\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\Thumb\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\Thumb\\b09395169cb04cbd96ae6f02668cccfb.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\Thumb\\b09395169cb04cbd96ae6f02668cccfb.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\b09395169cb04cbd96ae6f02668cccfb.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\b09395169cb04cbd96ae6f02668cccfb.jpg"
     },
     {
       "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css",

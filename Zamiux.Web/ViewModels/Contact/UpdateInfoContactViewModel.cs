@@ -8,5 +8,9 @@
         public string? ContactEmailTwo { get; set; }
         public string? ContactLogoDark { get; set; }
         public string? ContactLogo { get; set; }
+        public string? ContactLogoDark_old { get; set; }
+        public string? ContactLogo_old { get; set; }
+        public IFormFile? ImageContactLogo { get; set; }
+        public IFormFile? ImageContactLogoDark { get; set; }
     }
 }
