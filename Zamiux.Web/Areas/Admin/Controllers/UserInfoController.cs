@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Zamiux.Web.Context;
 using Zamiux.Web.Entities.Ability;
 using Zamiux.Web.Entities.Social;
@@ -100,13 +101,26 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         #region User Intro
 
         #region User Intro List
-        public IActionResult User_Intro()
+        public IActionResult User_Intro(FilterUserIntroViewModel filterUserIntro)
         {
-            ListUserIntroViewModel listUserIntro = new ListUserIntroViewModel()
+            //fetch all withoute data
+            var QueryUserIntro = _context.userIntros.AsQueryable();
+
+            //filter one; yani agar user filter Title ro mohakhas karde bood
+            if (!string.IsNullOrEmpty(filterUserIntro.IntroTitle))
             {
-                userIntros = _context.userIntros.ToList()
-            };
-            return View(listUserIntro);
+                QueryUserIntro = QueryUserIntro.Where(x => EF.Functions.Like(x.IntroTitle, $"%{filterUserIntro.IntroTitle}%"));
+            }
+
+            // Pagging shod
+            filterUserIntro.SetPagging(QueryUserIntro);
+
+            return View(filterUserIntro);
+            //ListUserIntroViewModel listUserIntro = new ListUserIntroViewModel()
+            //{
+            //    userIntros = _context.userIntros.ToList()
+            //};
+            //return View(listUserIntro);
         }
         #endregion
 
@@ -208,13 +222,39 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         #region User Ability
 
         #region User Ability List
-        public IActionResult User_Ability()
+        public IActionResult User_Ability(FilterUserAbilityViewModel filterUserAbility)
         {
-            ListUserAbilityViewModel listUserAbility = new ListUserAbilityViewModel()
+            //var UserAbility = _context.userAbilities.OrderByDescending(x => x.AbilityPriority).ToList(); 
+            var QueryUserAbility = _context.userAbilities.AsQueryable();
+
+            //filter one; yani agar user filter Title ro mohakhas karde bood
+            if (!string.IsNullOrEmpty(filterUserAbility.AbilityTitle))
             {
-                userAbilities = _context.userAbilities.ToList()
-            };
-            return View(listUserAbility);
+                QueryUserAbility = QueryUserAbility.Where(x => EF.Functions.Like(x.AbilityTitle, $"%{filterUserAbility.AbilityTitle}%"));
+            }
+
+            //filter two; contain konde va jaigozinesh in shod 
+            if (filterUserAbility.AbilityPercent != null)
+            {
+                QueryUserAbility = QueryUserAbility.Where(x => EF.Functions.Like(x.AbilityPercent.ToString(), $"%{filterUserAbility.AbilityPercent}%"));
+            }
+
+            //filter three
+            if (filterUserAbility.AbilityPriority != null)
+            {
+                QueryUserAbility = QueryUserAbility.Where(x => EF.Functions.Like(x.AbilityPriority.ToString(), $"%{filterUserAbility.AbilityPriority}%"));
+            }
+
+            // Pagging shod
+            filterUserAbility.SetPagging(QueryUserAbility);
+
+            //filterUserAbility.ListEntities = (List<UserAbility>)QueryUserAbility.OrderByDescending(x=>x.Id).ToList();
+
+            //ListUserAbilityViewModel listUserAbility = new ListUserAbilityViewModel()
+            //{
+            //    userAbilities = (List<UserAbility>)QueryUserAbility
+            //};
+            return View(filterUserAbility); 
         }
         #endregion
 
@@ -319,13 +359,27 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         #region User Social
 
         #region User Social List
-        public IActionResult User_Social()
+        public IActionResult User_Social(FilterUserSocialViewModel filterUserSocial)
         {
-            ListUserSocialViewModel SocialList = new ListUserSocialViewModel()
+            //ListUserSocialViewModel SocialList = new ListUserSocialViewModel()
+            //{
+            //    getSocials = _context.UserSocials.ToList()
+            //};
+            //return View(SocialList);
+
+            //fetch all withoute data
+            var QueryUserSocial = _context.UserSocials.AsQueryable();
+
+            //filter one; yani agar user filter Title ro mohakhas karde bood
+            if (!string.IsNullOrEmpty(filterUserSocial.SocialTitle))
             {
-                getSocials = _context.UserSocials.ToList()
-            };
-            return View(SocialList);
+                QueryUserSocial = QueryUserSocial.Where(x => EF.Functions.Like(x.SocialTitle, $"%{filterUserSocial.SocialTitle}%"));
+            }
+
+            // Pagging shod
+            filterUserSocial.SetPagging(QueryUserSocial);
+
+            return View(filterUserSocial);
         }
         #endregion
 
@@ -362,6 +416,74 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         }
         #endregion
 
+        #region Edit User Social
+        [HttpGet]
+        public IActionResult Edit_User_Social(int id)
+        {
+            //get usr social
+            var user_social = _context.UserSocials.SingleOrDefault(s => s.Id == id);
+            if (user_social == null) return NotFound();
+
+            //new instance of VM and fill with value got Model and show in View
+            var editUserSocial = new EditUserSocialViewModel()
+            {
+                SocialTitle = user_social.SocialTitle,
+                SocialIcon = user_social.SocialIcon,
+                SocialLink = user_social.SocialLink,
+                isActive = user_social.isActive
+            };
+
+            return View(editUserSocial);
+        }
+
+        [HttpPost]
+        public IActionResult Edit_User_Social(EditUserSocialViewModel editUserSocial, int id)
+        {
+            if (ModelState.IsValid)
+            {
+                //get usr social
+                var user_social = _context.UserSocials.SingleOrDefault(s => s.Id == id);
+                if (user_social == null) return NotFound();
+
+                // fill and update model from view model
+                user_social.SocialTitle = editUserSocial.SocialTitle;
+                user_social.SocialLink = editUserSocial.SocialLink;
+                user_social.SocialIcon = editUserSocial.SocialIcon;
+                user_social.isActive = editUserSocial.isActive;
+
+                // update db
+                _context.UserSocials.Update(user_social);
+                _context.SaveChanges();
+
+                return RedirectToAction("User_Social","UserInfo");
+            }
+            return View(editUserSocial);
+        }
         #endregion
+
+        #region ِDelete User Social
+        public IActionResult Delete_User_Social(int id)
+        {
+            //get usr social
+            var user_social = _context.UserSocials.SingleOrDefault(s => s.Id == id);
+            if (user_social == null) return NotFound();
+
+            //delete image if record is pic or file exists
+
+            // delte record 
+            _context.UserSocials.Remove(user_social);
+            _context.SaveChanges();
+
+            return new JsonResult(new
+            {
+                status = "success"
+            });
+        }
+
+
+        #endregion
+
+        #endregion
+
     }
 }

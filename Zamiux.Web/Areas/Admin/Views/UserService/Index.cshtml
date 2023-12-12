@@ -1,4 +1,4 @@
-﻿@model Zamiux.Web.ViewModels.Service.ListServiceViewModel
+﻿@model Zamiux.Web.ViewModels.Service.FilterListServiceViewModel
 @{
     ViewData["Title"] = "لیست خدمات";
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
@@ -9,64 +9,79 @@
     <h5 class="am-title">خدمات > @ViewData["Title"]</h5>
 </div><!-- am-pagetitle -->
 
-<div class="am-mainpanel">
-    <div class="am-pagebody">
-        <div class="card pd-20 pd-sm-40">
-            <h6 class="card-body-title">نمایش @ViewData["Title"]</h6>
-            <div class="row">
-                <div class="col-sm-6 col-md-3">
-                </div><!-- col-sm-3 -->
+<form method="get" id="filter-form">
 
-                <div class="col-sm-6 col-md-3 mg-t-20 mg-sm-t-0">
-                </div><!-- col-sm-3 -->
+    <div class="am-mainpanel">
+        <div class="am-pagebody">
+            <div class="card pd-20 pd-sm-40">
+                <h6 class="card-body-title">نمایش @ViewData["Title"]</h6>
+                <div class="row">
+                    <div class="col-sm-6 col-md-3">
+                        <div class="col-lg">
+                            <input class="form-control" placeholder="خدمات" asp-for="ServiceTitle" type="text">
+                        </div>
+                    </div><!-- col-sm-3 -->
 
-                <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
-                </div><!-- col-sm-3 -->
+                    <div class="col-sm-6 col-md-3 mg-t-20 mg-sm-t-0">
+                        <div class="col-lg">
+                            <input class="form-control" placeholder="شرح" asp-for="ServiceDescription" type="text">
+                        </div>
+                    </div><!-- col-sm-3 -->
 
-                <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
-                    <a asp-area="Admin" asp-controller="UserService" asp-action="Create_User_Service" class="btn btn-primary btn-block mg-b-10"> ثپت خدمات جدید </a>
-                </div><!-- col-sm-3 -->
+                    <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
+                        <button class="btn btn-success btn-block mg-b-10" type="submit"> جستجو </button>
+                    </div><!-- col-sm-3 -->
+
+                    <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
+                        <a asp-area="Admin" asp-controller="UserService" asp-action="Create_User_Service" class="btn btn-primary btn-block mg-b-10"> ثپت خدمات جدید </a>
+                    </div><!-- col-sm-3 -->
+
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover table-bordered mg-b-0">
+                        <thead class="bg-info">
+                            <tr>
+                                <th>عنوان</th>
+                                <th>آیگون</th>
+                                <th>وضعیت</th>
+                                <th>عملیات</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.ListEntities.Any())
+                            {
+                                foreach (var SericeLst in Model.ListEntities)
+                                {
+                                    <tr id="ability_@SericeLst.Id">
+                                        <td>@SericeLst.ServiceTitle</td>
+                                        <td>@SericeLst.ServiceIcon</td>
+                                        <td>
+                                            @if (SericeLst.isActive == true)
+                                            {
+                                                <span>خدمات فعال</span>
+                                            }
+                                            else
+                                            {
+                                                <span>خدمات غیرفعال</span>
+                                            }
+                                        </td>
+                                        <td>
+                                            <a asp-area="Admin" asp-controller="UserService" asp-action="Edit_User_Service" asp-route-id="@SericeLst.Id" class="btn btn-warning btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-edit"></i></div></a>
+                                            <button onclick="deleteuserservice(@SericeLst.Id)" class="btn btn-danger btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-trash-a"></i></div></button>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div><!-- table-responsive -->
+
+                <!-- Pagingig -->
+                <partial name="_AdminPagingPartial" model="@Model.GetPagingProperties()"></partial>
+                <!-- Pagingig -->
 
             </div>
-            <div class="table-responsive">
-                <table class="table table-hover table-bordered mg-b-0">
-                    <thead class="bg-info">
-                        <tr>
-                            <th>عنوان</th>
-                            <th>آیگون</th>
-                            <th>وضعیت</th>
-                            <th>عملیات</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @if (Model != null && Model.ListServices.Any())
-                        {
-                            foreach (var SericeLst in Model.ListServices)
-                            {
-                                <tr>
-                                    <td>@SericeLst.ServiceTitle</td>
-                                    <td>@SericeLst.ServiceIcon</td>
-                                    <td>
-                                        @if (SericeLst.isActive == true)
-                                        {
-                                            <span>خدمات فعال</span>
-                                        }
-                                        else
-                                        {
-                                            <span>خدمات غیرفعال</span>
-                                        }
-                                    </td>
-                                    <td>
-                                    </td>
-                                </tr>
-                            }
-                        }
-                    </tbody>
-                </table>
-            </div><!-- table-responsive -->
+        </div><!-- am-pagebody -->
+    </div>
+</form>
 
-
-        </div>
-    </div><!-- am-pagebody -->
-</div>
-<!-- am-mainpanel

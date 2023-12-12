@@ -1,0 +1,59 @@
+﻿@model Zamiux.Web.ViewModels.Social.EditUserSocialViewModel
+@{
+    ViewData["Title"] = "ویرایش شبگه های اجتماعی";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+
+<div class="am-pagetitle">
+    <h5 class="am-title">ارتباطات > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<div class="am-mainpanel">
+    <div class="am-pagebody">
+        <div class="card pd-20 pd-sm-40">
+            <h6 class="card-body-title">@ViewData["Title"]</h6>
+            <p class="mg-b-20 mg-sm-b-30">دراین قسمت می توانید شبکه اجتماعی خود را بروز رسانی کنید.</p>
+            <div class="form-layout">
+                <form method="post" asp-area="Admin" asp-controller="UserInfo" asp-action="Edit_User_Social">
+                    <div class="row mg-b-25">
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label class="form-control-label">عنوان: <span class="tx-danger" asp-validation-for="SocialTitle">*</span></label>
+                                <input class="form-control" type="text" asp-for="SocialTitle">
+                            </div>
+                        </div><!-- col-4 -->
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label class="form-control-label">آیکون: <span class="tx-danger" asp-validation-for="SocialIcon">*</span></label>
+                                <input class="form-control" type="text" asp-for="SocialIcon">
+                            </div>
+                        </div><!-- col-4 -->
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label class="form-control-label">لینک: <span class="tx-danger" asp-validation-for="SocialLink">*</span></label>
+                                <input class="form-control" type="text" asp-for="SocialLink">
+                            </div>
+                        </div><!-- col-4 -->
+                        <div class="col-lg-12">
+                            <label class="ckbox">
+                                <input asp-for="isActive" type="checkbox" checked=""><span>این شبکه اجتماعی فعال باشد</span>
+                            </label>
+
+
+                        </div><!-- col-12 -->
+
+                    </div><!-- row -->
+                    <div class="form-layout-footer">
+                        <input type="submit" value="ثپت اطلاعات" class="btn btn-success mg-r-5" />
+                        <a asp-area="Admin" asp-controller="UserInfo" asp-action="User_Social" class="btn btn-secondary">انصراف</a>
+                    </div><!-- form-layout-footer -->
+                </form>
+            </div>
+
+        </div>
+    </div><!-- am-pagebody -->
+</div><!-- am-mainpanel -->

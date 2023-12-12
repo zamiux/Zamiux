@@ -1,0 +1,64 @@
+﻿@model Zamiux.Web.ViewModels.Service.EditUserServiceViewModel
+@{
+    ViewData["Title"] = "ویرایش خدمات";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+
+<div class="am-pagetitle">
+    <h5 class="am-title">خدمات > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<div class="am-mainpanel">
+    <div class="am-pagebody">
+        <div class="card pd-20 pd-sm-40">
+            <h6 class="card-body-title">@ViewData["Title"]</h6>
+            <p class="mg-b-20 mg-sm-b-30">دراین قسمت می توانید خدمات خود را بروز رسانی کنید.</p>
+            <div class="form-layout">
+                <form method="post" asp-area="Admin" asp-controller="UserService" asp-action="Edit_User_Service">
+                    <div class="row mg-b-25">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label class="form-control-label">عنوان: <span class="tx-danger" asp-validation-for="ServiceTitle">*</span></label>
+                                <input class="form-control" type="text" asp-for="ServiceTitle">
+                            </div>
+                        </div><!-- col-6 -->
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label class="form-control-label">کد آیکون: <span class="tx-danger" asp-validation-for="ServiceIcon">*</span></label>
+                                <input class="form-control" type="text" asp-for="ServiceIcon">
+                            </div>
+                        </div><!-- col-6 -->
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <label class="form-control-label">شرحی کوتاه برای خدمات: <span class="tx-danger" asp-validation-for="ServiceDescription">*</span></label>
+                                <input class="form-control" type="text" asp-for="ServiceDescription">
+                            </div>
+                        </div><!-- col-12 -->
+                        <div class="col-lg-12">
+                            <label class="ckbox">
+                                <input asp-for="isActive" type="checkbox" checked=""><span>این خدمات فعال باشد</span>
+                            </label>
+
+
+                        </div><!-- col-12 -->
+
+                    </div><!-- row -->
+                    <div class="form-layout-footer">
+                        <input type="submit" value="ثپت اطلاعات" class="btn btn-success mg-r-5" />
+                        <a asp-area="Admin" asp-controller="UserService" asp-action="Index" class="btn btn-secondary">انصراف</a>
+                    </div><!-- form-layout-footer -->
+                </form>
+            </div>
+
+        </div>
+    </div><!-- am-pagebody -->
+</div>
+<!-- am-ma
+
+

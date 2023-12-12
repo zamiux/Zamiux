@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Zamiux.Web.Context;
 
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+#region Service To DB Connection
 // Start Service To DB Connection
 builder.Services.AddDbContext<ZamiuxDbContext>(
     options =>
@@ -14,6 +16,26 @@ builder.Services.AddDbContext<ZamiuxDbContext>(
     });
 
 // End Service To DB Connection
+#endregion
+
+#region Service Authentication
+builder.Services.AddAuthentication(options =>
+{
+    // inja moshakhas mishe ke Authentication bar che aasasi bashe: Cookie,Token ya ...
+
+    // inja ma az Cookie estefade mikonim
+    options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+}).AddCookie(options =>
+{
+    options.LoginPath = "/Login";
+    options.LogoutPath = "/LogOut";
+    options.ExpireTimeSpan = TimeSpan.FromDays(30);
+    options.SlidingExpiration = true;
+});
+#endregion
 
 var app = builder.Build();
 
@@ -29,6 +51,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+#region Use Authentication
+app.UseAuthentication();
+#endregion
 
 app.UseAuthorization();
 

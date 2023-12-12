@@ -30,3 +30,25 @@ function deleteuserability(UserAblityId) {
         }
     });
 }
+
+// delete ajax record user social
+function deleteusersocial(UserSocialId) {
+    // url : /Admin/UserInfo/Delete_User_Intro/ + UserintroId
+    $.get('/Admin/UserInfo/Delete_User_Social/' + UserSocialId).then(res => {
+        if (res.status === 'success') {
+            $('#ability_' + UserSocialId).fadeOut();
+        }
+    });
+}
+
+
+// delete ajax record user service
+function deleteuserservice(UserServiceId) {
+    // url : /Admin/UserInfo/Delete_User_Service/ + UserintroId
+    $.get('/Admin/UserService/Delete_User_Service/' + UserServiceId).then(res => {
+        if (res.status === 'success') {
+            $('#ability_' + UserServiceId).fadeOut();
+        }
+    });
+}
+

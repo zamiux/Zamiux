@@ -8,17 +8,16 @@ namespace Zamiux.Web.Entities.User
         public int Id { get; set; }
 
         [MaxLength(200)]
-        public string? UserName { get; set; }
-
-        [MaxLength(200)]
         public string UserEmail { get; set; }
 
         [MaxLength(300)]
         public string UserPassword { get; set; }
 
-        [MaxLength(1000)]
-        public string UserImageProfileUrl { get; set; }
+        public string EmailActivationCode { get; set; }
 
-        public bool UserStatus { get; set; }
+        public bool UserStatus { get; set; } = true;
+        public string? FirstName { get; set; }
+
+        public string? LastName { get; set; }
     }
 }

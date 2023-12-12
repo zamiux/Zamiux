@@ -1,0 +1,78 @@
+﻿@model Zamiux.Web.ViewModels.Account.LoginUserViewModel
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.demotem.ir/html/adamandai/page-signin.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Feb 2019 21:36:48 GMT -->
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+    <title>ورود - مدیریت سایت</title>
+
+    <partial name="_HeaderUserRefrences"/>
+  </head>
+
+  <body>
+
+    <form method="post" asp-area="" asp-controller="Account" asp-action="Login">
+        <div class="am-signin-wrapper">
+            <div class="am-signin-box">
+                <div class="row no-gutters">
+                    <div class="col-lg-5">
+                        <div>
+                            <h2>مدیریت سایت</h2>
+                            <hr />
+                            <p>وب سایت خود را مدیریت کنید !</p>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <h5 class="tx-gray-800 mg-b-25">پنل مدیریت</h5>
+
+                        <div class="form-group">
+                            <label class="form-control-label">ایمیل :</label>
+                            <input type="email" asp-for="UserEmail" class="form-control">
+                            <span class="text-danger" asp-validation-for="UserEmail"></span>
+                        </div><!-- form-group -->
+
+                        <div class="form-group">
+                            <label class="form-control-label">کلمه عبور:</label>
+                            <input type="password" asp-for="UserPassword" class="form-control">
+                            <span class="text-danger" asp-validation-for="UserPassword"></span>
+                        </div><!-- form-group -->
+
+                        <div class="form-group">
+                            <label class="form-control-label">دیگه کلمه عبور وارد نکنم</label>
+                            <input type="checkbox" asp-for="RememberMe">
+                        </div><!-- form-group -->
+
+                        <div class="form-group mg-b-20"><a href="#">بازنشاندن کلمه عبور</a></div>
+
+                        <button type="submit" class="btn btn-block">ورود</button>
+                    </div><!-- col-7 -->
+                </div><!-- row -->
+                <p class="tx-center tx-white-5 tx-12 mg-t-15">
+                    طراحی و توسعه :: <a href="https://mohsenzamani.ir" target="_blank">محسن زمانی</a>
+                </p>
+            </div><!-- signin-box -->
+        </div><!-- am-signin-wrapper -->
+   </form>
+
+   <partial name="_FooterUserRefrences"/>
+  </body>
+
+@section scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+</html>
+

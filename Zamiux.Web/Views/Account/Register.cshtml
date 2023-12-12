@@ -1,0 +1,80 @@
+﻿@model Zamiux.Web.ViewModels.Account.RegisterUserViewModel
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.demotem.ir/html/adamandai/page-signup.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Feb 2019 21:36:48 GMT -->
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <title>ثبت نام - مدیریت سایت</title>
+
+    <partial name="_HeaderUserRefrences" />
+</head>
+
+<body>
+
+    <form method="post" asp-area="" asp-controller="Account" asp-action="Register">
+        <div class="am-signup-wrapper">
+            <div class="am-signup-box">
+                <div class="row no-gutters">
+                    <div class="col-lg-5">
+                        <div>
+                            <h2>مدیریت سایت</h2>
+                            <hr>
+                            <p>وب سایت خود را مدیریت کنید !</p>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <h5 class="tx-gray-800 mg-b-25"> ثبت نام کنید</h5>
+
+                        <div class="form-group">
+                            <label class="form-control-label">ایمیل :</label>
+                            <input asp-for="UserEmail" class="form-control">
+                            <span class="text-danger" asp-validation-for="UserEmail"></span>
+                        </div><!-- form-group -->
+
+                        <div class="row row-xs">
+                            <div class="col">
+                                <div class="form-group">
+                                    <label class="form-control-label">کلمه عبور:</label>
+                                    <input asp-for="UserPassword" class="form-control">
+                                    <span class="text-danger" asp-validation-for="UserPassword"></span>
+                                </div><!-- form-group -->
+                            </div><!-- col -->
+                            <div class="col">
+                                <div class="form-group">
+                                    <label class="form-control-label">تکرار کلمه عبور:</label>
+                                    <input asp-for="ConfirmPassword" class="form-control">
+                                    <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+                                </div><!-- form-group -->
+                            </div><!-- col -->
+                        </div><!-- row -->
+
+                        <button type="submit" class="btn btn-block">ثبت نام</button>
+                    </div><!-- col-7 -->
+                </div><!-- row -->
+                <p class="tx-center tx-white-5 tx-12 mg-t-15">
+                    طراحی و توسعه :: <a href="https://mohsenzamani.ir" target="_blank">محسن زمانی</a>
+                </p>
+            </div><!-- signin-box -->
+        </div><!-- am-signin-wrapper -->
+    </form>
+
+    <partial name="_FooterUserRefrences" />
+</body>
+
+@section scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+</html>
+
