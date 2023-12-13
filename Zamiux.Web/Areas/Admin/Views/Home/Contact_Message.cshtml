@@ -1,0 +1,57 @@
+﻿@model Zamiux.Web.ViewModels.Contact.ListContactMsgViewModel
+@{
+    ViewData["Title"] = "پیام کاربران سایت";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="am-pagetitle">
+    <h5 class="am-title">داشبورد مدیریت سایت > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<form method="get" id="filter-form">
+    <div class="am-mainpanel">
+        <div class="am-pagebody">
+            <div class="card pd-20 pd-sm-40">
+                <h6 class="card-body-title">@ViewData["Title"]</h6>
+            
+                <div class="table-responsive">
+                    <table class="table table-hover table-bordered mg-b-0">
+                        <thead class="bg-info">
+                            <tr>
+                                <th>نام</th>
+                                <th>عنوان</th>
+                                <th>موضوع</th>
+                                <th>پیام</th>
+                                <th>عملیات</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.ListEntities.Any())
+                            {
+                                foreach (var useri in Model.ListEntities)
+                                {
+                                    <tr id="msg_@useri.Id">
+                                        <td>@useri.Fullname</td>
+                                        <td>@useri.UserEmail</td>
+                                        <td>@useri.UserSubject</td>
+                                        <td>@useri.UserMessage</td>
+                                        <td>
+                                            <button onclick="deleteusermsg(@useri.Id)" class="btn btn-danger btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-trash-a"></i></div></button>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div><!-- table-responsive -->
+                <!-- Pagingig -->
+                <partial name="_AdminPagingPartial" model="@Model.GetPagingProperties()"></partial>
+                <!-- Pagingig -->
+
+            </div>
+        </div><!-- am-pagebody -->
+    </div><!-- am-mainpanel -->
+
+</form>
+

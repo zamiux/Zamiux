@@ -1,4 +1,6 @@
-﻿<section class="services section-padding" data-scroll-index="2">
+﻿@model Zamiux.Web.ViewModels.Home.ServicesUSViewModel
+
+<section class="services section-padding" data-scroll-index="2">
     <div class="container">
         <div class="row">
 
@@ -6,57 +8,17 @@
                 <h4>خدمات ما</h4>
                 <h6>ویژگی های عالی</h6>
             </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="item mb-md50">
-                    <span class="icon icon-basic-book-pencil"></span>
-                    <h6>طراحی خلاقانه</h6>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه</p>
+            
+            @foreach (var service in Model.userServices)
+            {
+                <div class="col-lg-4 col-md-6">
+                    <div class="item mb-md50">
+                        <span class="@service.ServiceIcon"></span>
+                        <h6>@service.ServiceTitle</h6>
+                        <p>@service.ServiceDescription</p>
+                    </div>
                 </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 bord">
-                <div class="item mb-md50">
-                    <span class="icon icon-basic-pencil-ruler"></span>
-                    <h6>تجربه کاربر</h6>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه</p>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="item mb-md50">
-                    <span class="icon icon-basic-anchor"></span>
-                    <h6>سفارشی سازی</h6>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه</p>
-                </div>
-            </div>
-
-            <hr>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="item mb-md50">
-                    <span class="icon icon-basic-picture"></span>
-                    <h6>مناسب رتینا</h6>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه</p>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 bord">
-                <div class="item mb-sm50">
-                    <span class="icon icon-basic-ipod"></span>
-                    <h6>کاملا واکنشگرا</h6>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه</p>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="item">
-                    <span class="icon icon-basic-gear"></span>
-                    <h6>طراحی مدرن</h6>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه</p>
-                </div>
-            </div>
-
+            }
         </div>
     </div>
 </section>

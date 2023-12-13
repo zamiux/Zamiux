@@ -87,5 +87,34 @@ namespace Zamiux.Web.Areas.Admin.Controllers
             return View();
         }
         #endregion
+
+        #region Contact Message
+        public IActionResult Contact_Message(ListContactMsgViewModel listContact)
+        {
+            var QueryUserMessage = _context.ContactMsgs.AsQueryable();
+            // Pagging shod
+            listContact.SetPagging(QueryUserMessage);
+
+            return View(listContact);
+        }
+
+        public IActionResult Delete_Message(int id)
+        {
+            //get msg
+            var user_message = _context.ContactMsgs.SingleOrDefault(s => s.Id == id);
+            if (user_message == null) return NotFound();
+
+            //delete image if record is pic or file exists
+
+            // delte record 
+            _context.ContactMsgs.Remove(user_message);
+            _context.SaveChanges();
+
+            return new JsonResult(new
+            {
+                status = "success"
+            });
+        }
+        #endregion
     }
 }

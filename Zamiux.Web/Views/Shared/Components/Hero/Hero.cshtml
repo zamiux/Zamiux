@@ -1,19 +1,33 @@
-﻿<section class="hero section-padding" data-scroll-index="1">
+﻿@model Zamiux.Web.ViewModels.Home.HeroViewModel
+<section class="hero section-padding" data-scroll-index="1">
     <div class="container">
         <div class="row">
 
             <div class="col-lg-5">
                 <div class="hero-img">
-                    <img src="zamiux/img/hero.jpg" alt="">
+                    <img src="@(PathExtension.UserProfileContentOrgin + Model.UserProfilePic)" alt="Mohsen Zamani">
                 </div>
             </div>
 
             <div class="col-lg-7">
                 <div class="content">
                     <h5>درباره من</h5>
-                    <span class="sub-title">طراح UI / UX و توسعه دهنده</span>
-                    <p>لورم ایپسوم <strong>جان اسنو</strong> لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز</p>
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان</p>
+                    <span class="sub-title">
+                        @for (int i = 0; i < Model.userIntros.Count(); i++)
+                        {
+                            if (i == Model.userIntros.Count() - 1)
+                            {
+                                <span>@Model.userIntros[i].IntroTitle</span>
+                            }
+                            else
+                            {
+                                <span>@Model.userIntros[i].IntroTitle</span>
+                                <span>،</span>
+                            }
+
+                        }
+                    </span>
+                    <p style="text-align:justify">@Model.UserDesc<p>
                     <a href="#0" class="butn butn-light mt-30">
                         <span>دریافت رزومه</span>
                     </a>

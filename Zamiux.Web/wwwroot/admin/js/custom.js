@@ -17,6 +17,7 @@ function deleteuserintro(UserintroId) {
     $.get('/Admin/UserInfo/Delete_User_Intro/' + UserintroId).then(res => {
         if(res.status === 'success'){
             $('#userintro_' + UserintroId).fadeOut();
+            $('#filter-form').submit();
         } 
     });
 }
@@ -27,6 +28,7 @@ function deleteuserability(UserAblityId) {
     $.get('/Admin/UserInfo/Delete_User_Ability/' + UserAblityId).then(res => {
         if (res.status === 'success') {
             $('#ability_' + UserAblityId).fadeOut();
+            $('#filter-form').submit();
         }
     });
 }
@@ -36,7 +38,8 @@ function deleteusersocial(UserSocialId) {
     // url : /Admin/UserInfo/Delete_User_Intro/ + UserintroId
     $.get('/Admin/UserInfo/Delete_User_Social/' + UserSocialId).then(res => {
         if (res.status === 'success') {
-            $('#ability_' + UserSocialId).fadeOut();
+            $('#userintro_' + UserSocialId).fadeOut();
+            $('#filter-form').submit();
         }
     });
 }
@@ -48,7 +51,19 @@ function deleteuserservice(UserServiceId) {
     $.get('/Admin/UserService/Delete_User_Service/' + UserServiceId).then(res => {
         if (res.status === 'success') {
             $('#ability_' + UserServiceId).fadeOut();
+            $('#filter-form').submit();
         }
     });
 }
 
+// Contact_Message
+
+function deleteusermsg(UserMsgId) {
+    // url : /Admin/UserInfo/Delete_User_Service/ + UserintroId
+    $.get('/Admin/Home/Delete_Message/' + UserMsgId).then(res => {
+        if (res.status === 'success') {
+            $('#msg_' + UserMsgId).fadeOut();
+            $('#filter-form').submit();
+        }
+    });
+}

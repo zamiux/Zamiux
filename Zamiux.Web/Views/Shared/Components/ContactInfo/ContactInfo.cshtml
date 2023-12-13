@@ -1,4 +1,6 @@
-﻿<div class="contact-info section-box" data-scroll-index="6">
+﻿@model Zamiux.Web.ViewModels.Home.ContactHomeViewModel
+
+<div class="contact-info section-box" data-scroll-index="6">
     <div class="container-fluid">
         <div class="row">
             <!-- Contact Info -->
@@ -9,7 +11,7 @@
                         <span class="icon icon-basic-smartphone"></span>
                         <div class="cont">
                             <h6>تلفن: </h6>
-                            <p><span class="ltr_text">+20 010 2517 8918</span></p>
+                            <p><span class="ltr_text">@Model.ContactPhone</span></p>
                         </div>
                     </div>
 
@@ -17,8 +19,7 @@
                         <span class="icon icon-basic-geolocalize-05"></span>
                         <div class="cont">
                             <h6>آدرس : </h6>
-                            <p>تبریز، خیابان ولیعصر، فلکه بازار</p>
-                            <p>جنب بانک ملت، ساختمان گلشن، طبقه 678، واحد 53</p>
+                            <p>@Model.ContactAddress</p>
                         </div>
                     </div>
 
@@ -26,27 +27,18 @@
                         <span class="icon icon-basic-mail"></span>
                         <div class="cont">
                             <h6>ایمیل : </h6>
-                            <p>email@youraddress.com</p>
-                            <p>email_support@youraddress.com</p>
+                            <p>@Model.ContactEmailOne</p>
+                            <p>@Model.ContactEmailTwo</p>
                         </div>
                     </div>
 
                     <div class="social">
-                        <a href="#0" class="icon">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#0" class="icon">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="#0" class="icon">
-                            <i class="fab fa-linkedin-in"></i>
-                        </a>
-                        <a href="#0" class="icon">
-                            <i class="fab fa-telegram"></i>
-                        </a>
-                        <a href="#0" class="icon">
-                            <i class="fab fa-instagram"></i>
-                        </a>
+                        @foreach (var social in Model.socials)
+                        {
+                            <a href="@social.SocialLink" class="icon">
+                                <i class="@social.SocialIcon"></i>
+                            </a>
+                        }     
                     </div>
 
                 </div>
@@ -55,7 +47,8 @@
             <!-- The Map -->
 
             <div class="map col-md-6 bgimg-height-sm">
-                <div id="ieatmaps"></div>
+                @*<div id="ieatmaps"></div>*@
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61612.513167563695!2d51.440639359547504!3d35.74812947786607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f8e00491ff3dcd9%3A0xf0b3697c567024bc!2sTehran%2C%20Tehran%20Province%2C%20Iran!5e0!3m2!1sen!2sfr!4v1702469704777!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
         </div>

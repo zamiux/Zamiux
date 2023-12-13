@@ -1,16 +1,7 @@
 ﻿<div class="am-sideleft">
-    <ul class="nav am-sideleft-tab">
+    <ul class="nav am-sideleft-tab" style="background-color: #2d3a50;">
         <li class="nav-item">
             <a href="#mainMenu" class="nav-link active"><i class="icon ion-ios-home-outline tx-24"></i></a>
-        </li>
-        <li class="nav-item">
-            <a href="#emailMenu" class="nav-link"><i class="icon ion-ios-email-outline tx-24"></i></a>
-        </li>
-        <li class="nav-item">
-            <a href="#chatMenu" class="nav-link"><i class="icon ion-ios-chatboxes-outline tx-24"></i></a>
-        </li>
-        <li class="nav-item">
-            <a href="#settingMenu" class="nav-link"><i class="icon ion-ios-gear-outline tx-24"></i></a>
         </li>
     </ul>
 
@@ -69,159 +60,11 @@
                     </a>
                     <ul class="nav-sub">
                         <li class="nav-item"><a asp-area="Admin" asp-controller="UserInfo" asp-action="User_Social" class="nav-link">شبکه اجتماعی</a></li>
+                        <li class="nav-item"><a asp-area="Admin" asp-controller="Home" asp-action="Contact_Message" class="nav-link">پیام کاربران</a></li>
                     </ul>
                 </li>
                
             </ul>
         </div><!-- #mainMenu -->
-        <div id="emailMenu" class="tab-pane">
-            <div class="pd-x-20 pd-y-10">
-                <a href="#" class="btn btn-orange btn-block btn-compose">نوشتن ایمیل</a>
-            </div>
-            <ul class="nav am-sideleft-menu">
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-filing-outline"></i>
-                        <span>صندوق ورودی</span>
-                    </a>
-                </li><!-- nav-item -->
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-filing-outline"></i>
-                        <span>پیش نویس</span>
-                    </a>
-                </li><!-- nav-item -->
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-paperplane-outline"></i>
-                        <span>ارسال شده</span>
-                    </a>
-                </li><!-- nav-item -->
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-trash-outline"></i>
-                        <span>سطل زباله</span>
-                    </a>
-                </li><!-- nav-item -->
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-filing-outline"></i>
-                        <span>هرزنامه</span>
-                    </a>
-                </li><!-- nav-item -->
-            </ul>
-
-            <label class="pd-x-20 tx-uppercase tx-11 mg-t-10 tx-orange mg-b-0 tx-medium">پوشه های من</label>
-            <ul class="nav am-sideleft-menu">
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-folder-outline"></i>
-                        <span>به روز رسانی ها</span>
-                    </a>
-                </li><!-- nav-item -->
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-folder-outline"></i>
-                        <span>شبکه های اجتماعی</span>
-                    </a>
-                </li><!-- nav-item -->
-                <li class="nav-item">
-                    <a href="page-inbox.html" class="nav-link">
-                        <i class="icon ion-ios-folder-outline"></i>
-                        <span>دسترسی ها</span>
-                    </a>
-                </li><!-- nav-item -->
-            </ul>
-        </div><!-- #emailMenu -->
-        <div id="chatMenu" class="tab-pane">
-            <div class="chat-search-bar">
-                <input type="search" class="form-control wd-150" placeholder="جستجو در پیامها ...">
-                <button class="btn btn-secondary"><i class="fa fa-search"></i></button>
-            </div><!-- chat-search-bar -->
-
-            <label class="pd-x-15 tx-uppercase tx-11 mg-t-20 tx-orange mg-b-10 tx-medium">تاریخچه آخرین پیام ها </label>
-            <div class="list-group list-group-chat">
-                <a href="#" class="list-group-item">
-                    <div class="d-flex align-items-center">
-                        <img src="/admin/img/img6.jpg" class="wd-32 rounded-circle" alt="">
-                        <div class="mg-l-10">
-                            <h6>سایت راستچین</h6>
-                            <span>یکشنبه, 10:33 صبح</span>
-                        </div>
-                    </div><!-- d-flex -->
-                    <p>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
-                </a><!-- list-group-item -->
-                <a href="#" class="list-group-item">
-                    <div class="d-flex align-items-center">
-                        <img src="/admin/img/img7.jpg" class="wd-32 rounded-circle" alt="">
-                        <div class="mg-l-10">
-                            <h6>سایت راستچین</h6>
-                            <span>یکشنبه, 10:33 صبح</span>
-                        </div>
-                    </div><!-- d-flex -->
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
-                </a><!-- list-group-item -->
-                <a href="#" class="list-group-item">
-                    <div class="d-flex align-items-center">
-                        <img src="/admin/img/img8.jpg" class="wd-32 rounded-circle" alt="">
-                        <div class="mg-l-10">
-                            <h6>سایت راستچین</h6>
-                            <span>یکشنبه, 10:33 صبح</span>
-                        </div>
-                    </div><!-- d-flex -->
-                    <p>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
-                </a><!-- list-group-item -->
-                <a href="#" class="list-group-item">
-                    <div class="d-flex align-items-center">
-                        <img src="/admin/img/img9.jpg" class="wd-32 rounded-circle" alt="">
-                        <div class="mg-l-10">
-                            <h6>سایت راستچین</h6>
-                            <span>یکشنبه, 10:33 صبح</span>
-                        </div>
-                    </div><!-- d-flex -->
-                    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
-                </a><!-- list-group-item -->
-                <a href="#" class="list-group-item">
-                    <div class="d-flex align-items-center">
-                        <img src="/admin/img/img10.jpg" class="wd-32 rounded-circle" alt="">
-                        <div class="mg-l-10">
-                            <h6>سایت راستچین</h6>
-                            <span>یکشنبه, 10:33 صبح</span>
-                        </div>
-                    </div><!-- d-flex -->
-                    <p>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
-                </a><!-- list-group-item -->
-            </div><!-- list-group -->
-            <span class="d-block pd-15 tx-12">بارگذاری بیشتر ...</span>
-
-        </div><!-- #chatMenu -->
-        <div id="settingMenu" class="tab-pane">
-            <div class="pd-x-15">
-                <label class="tx-uppercase tx-11 mg-t-10 tx-orange mg-b-15 tx-medium">تنظیمات سریع</label>
-                <div class="bd pd-15">
-                    <h6 class="tx-13 tx-normal tx-gray-800">ایمیل های روزانه</h6>
-                    <p class="tx-12">مطلع شوید که فرد دیگری در حال تلاش برای دسترسی به حساب شماست.</p>
-                    <div class="toggle toggle-light warning"></div>
-                </div><!-- bd -->
-
-                <div class="bd pd-15 mg-t-15">
-                    <h6 class="tx-13 tx-normal tx-gray-800">تماس تلفنی</h6>
-                    <p class="tx-12">ارتباط با دوستان.</p>
-                    <div class="toggle toggle-light warning"></div>
-                </div><!-- bd -->
-
-                <div class="bd pd-15 mg-t-15">
-                    <h6 class="tx-13 tx-normal tx-gray-800">اعلانهای ورود</h6>
-                    <p class="tx-12">مطلع شوید که فرد دیگری در حال تلاش برای دسترسی به حساب شماست.</p>
-                    <div class="toggle toggle-light warning"></div>
-                </div><!-- bd -->
-
-                <div class="bd pd-15 mg-t-15">
-                    <h6 class="tx-13 tx-normal tx-gray-800">تصدیق تلفن</h6>
-                    <p class="tx-12">هنگام ورود به سیستم به عنوان یک لایه اضافی امنیتی از تلفن خود استفاده کنید.</p>
-                    <div class="toggle toggle-light warning"></div>
-                </div><!-- bd -->
-            </div>
-        </div><!-- #settingMenu -->
     </div><!-- tab-content -->
 </div><!-- am-sideleft -->

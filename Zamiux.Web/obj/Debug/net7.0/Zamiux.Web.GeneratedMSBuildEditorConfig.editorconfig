@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Projects\ZamiuxWeb\Zamiux\Zamiux.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/Contact_Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDb250YWN0X01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -154,10 +158,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/LastComment/LastComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFzdENvbW1lbnRcTGFzdENvbW1lbnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/LogoHeader/LogoHeader.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9nb0hlYWRlclxMb2dvSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/MenuHeader/MenuHeader.cshtml]
