@@ -28,11 +28,11 @@
                         }
                     </span>
                     <p style="text-align:justify">@Model.UserDesc<p>
-                    <a href="#0" class="butn butn-light mt-30">
+                    <a onclick="ResumeCounter()" target="_blank" href="/zamiux/content/resume/mohsen_zamani.pdf" class="butn butn-light mt-30">
                         <span>دریافت رزومه</span>
                     </a>
                     <a href="#0" class="butn butn-bg mt-30" data-scroll-nav="7">
-                        <span>استخدامم کنید</span>
+                        <span>درخواست مشاوره</span>
                     </a>
                 </div>
             </div>
@@ -40,3 +40,15 @@
         </div>
     </div>
 </section>
+
+
+    <script>
+        function ResumeCounter()
+        {
+            $.get('/Home/Counter/').then(res => {
+                if (res.status === 'success') {
+                 //   alert('Downloaded!!');
+                }
+            });
+        }
+    </script>

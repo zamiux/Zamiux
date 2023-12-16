@@ -91,6 +91,8 @@ namespace Zamiux.Web.Controllers
                             IsPersistent = login.RememberMe
                         };
                         await HttpContext.SignInAsync(principal, properties);
+
+                        return RedirectToAction("Index", "Home");
                     }
                     else
                     {

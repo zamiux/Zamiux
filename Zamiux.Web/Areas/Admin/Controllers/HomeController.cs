@@ -19,7 +19,8 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         #endregion
         public IActionResult Index()
 		{
-			return View();
+            ViewBag.ResumeCount = _context.resumeDls.Count();
+            return View();
 		}
 
 		#region Site Setting

@@ -781,6 +781,18 @@
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\b09395169cb04cbd96ae6f02668cccfb.jpg"
     },
     {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\166c47ecb5b94af886fa95278cc0c8c6.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\166c47ecb5b94af886fa95278cc0c8c6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\166c47ecb5b94af886fa95278cc0c8c6.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\166c47ecb5b94af886fa95278cc0c8c6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\resume\\mohsen_zamani.pdf",
+      "PackagePath": "staticwebassets\\zamiux\\content\\resume\\mohsen_zamani.pdf"
+    },
+    {
       "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css"
     },

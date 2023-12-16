@@ -25,5 +25,12 @@
         public static string logoContentOrginDarkThumb = "/zamiux/content/img/logo/dark/Thumb/";
         public static string logoContentServerDarkThumb = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/zamiux/content/img/logo/dark/Thumb/");
         #endregion
+
+        #region Work
+        public static string WorkImageOrgin = "/zamiux/content/img/work/";
+        public static string WorkImageOrginServer = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/zamiux/content/img/work/");
+        public static string WorkImageOrginOrginThumb = "/zamiux/content/img/work/Thumb/";
+        public static string WorkImageOrginServerThumb = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/zamiux/content/img/work/Thumb/");
+        #endregion
     }
 }

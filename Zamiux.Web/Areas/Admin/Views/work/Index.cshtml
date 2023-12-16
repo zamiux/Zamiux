@@ -1,0 +1,91 @@
+﻿@using Zamiux.Web.Utils;
+@model Zamiux.Web.ViewModels.Work.FilterWorkViewModel
+@{
+    ViewData["Title"] = "لیست پروژه ها";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="am-pagetitle">
+    <h5 class="am-title">پروژه ها > @ViewData["Title"]</h5>
+</div><!-- am-pagetitle -->
+
+<form method="get" id="filter-form">
+
+    <div class="am-mainpanel">
+        <div class="am-pagebody">
+            <div class="card pd-20 pd-sm-40">
+                <h6 class="card-body-title">نمایش @ViewData["Title"]</h6>
+                <div class="row">
+                    <div class="col-sm-6 col-md-3">
+                        <div class="col-lg">
+                            <input class="form-control" placeholder="دسته بندی پروژه" asp-for="CategoryName" type="text">
+                        </div>
+                    </div><!-- col-sm-3 -->
+
+                    <div class="col-sm-6 col-md-3 mg-t-20 mg-sm-t-0">
+                        <div class="col-lg">
+                            <input class="form-control" placeholder="عنوان پروژه" asp-for="WorkName" type="text">
+                        </div>
+                    </div><!-- col-sm-3 -->
+
+                    <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
+                        <button class="btn btn-success btn-block mg-b-10" type="submit"> جستجو </button>
+                    </div><!-- col-sm-3 -->
+
+                    <div class="col-sm-6 col-md-3 mg-t-20 mg-md-t-0">
+                        <a asp-area="Admin" asp-controller="work" asp-action="Create_Work" class="btn btn-primary btn-block mg-b-10"> ثپت پروژه جدید </a>
+                    </div><!-- col-sm-3 -->
+
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover table-bordered mg-b-0">
+                        <thead class="bg-info">
+                            <tr>
+                                <th>تصویر</th>
+                                <th>عنوان</th>
+                                <th>دسته بندی پروژه</th>
+                                <th>وضعیت</th>
+                                <th>عملیات</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.ListEntities.Any())
+                            {
+                                foreach (var worklist in Model.ListEntities)
+                                {
+                                    <tr id="work_@worklist.Id">
+                                        <td>
+                                            <img style="width: 40px;" src="@(PathExtension.WorkImageOrginOrginThumb + worklist.WorkImgThumb)" alt="@worklist.WorkName">
+                                        </td>
+                                        <td style="line-height: 40px;">@worklist.WorkName</td>
+                                        <td style="line-height: 40px;">@worklist.CategoryName</td>
+                                        <td style="line-height: 40px;">
+                                            @if (worklist.IsActive == true)
+                                            {
+                                                <span>پروژه فعال</span>
+                                            }
+                                            else
+                                            {
+                                                <span>پروژه غیرفعال</span>
+                                            }
+                                        </td>
+                                        <td style="line-height: 40px;">
+                                            <a asp-area="Admin" asp-controller="work" asp-action="Edit_Work" asp-route-id="@worklist.Id" class="btn btn-warning btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-edit"></i></div></a>
+                                            <button onclick="deletework(@worklist.Id)" class="btn btn-danger btn-icon mg-r-5" style="border-radius: 5px;"><div><i class="icon ion-trash-a"></i></div></button>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div><!-- table-responsive -->
+                <!-- Pagingig -->
+                <partial name="_AdminPagingPartial" model="@Model.GetPagingProperties()"></partial>
+                <!-- Pagingig -->
+
+            </div>
+        </div><!-- am-pagebody -->
+    </div>
+</form>
+
+

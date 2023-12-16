@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using Zamiux.Web.Context;
 using Zamiux.Web.Entities.Contact;
+using Zamiux.Web.Entities.Resume;
 using Zamiux.Web.ViewModels.Contact;
 
 namespace Zamiux.Web.Controllers
@@ -19,6 +20,7 @@ namespace Zamiux.Web.Controllers
         [HttpGet]
         public IActionResult Index()
         {
+            
             return View();
         }
 
@@ -41,6 +43,25 @@ namespace Zamiux.Web.Controllers
             }
             return View(SendContactMsg);
         }
+
+        #region Download Counter
+        [HttpGet]
+        public IActionResult Counter()
+        {
+            var resume_count = new ResumeDl()
+            {
+                Counter = 1
+            };
+
+            _context.resumeDls.Add(resume_count);
+            _context.SaveChanges();
+
+            return new JsonResult(new
+            {
+                status = "success"
+            });
+        }
+        #endregion
 
 
     }

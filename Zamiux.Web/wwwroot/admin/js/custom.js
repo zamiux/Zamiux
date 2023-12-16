@@ -67,3 +67,16 @@ function deleteusermsg(UserMsgId) {
         }
     });
 }
+
+
+
+// delete ajax record work
+function deletework(workId) {
+    // url : /Admin/UserInfo/Delete_User_Service/ + UserintroId
+    $.get('/Admin/work/Delete_Work/' + workId).then(res => {
+        if (res.status === 'success') {
+            $('#work_' + workId).fadeOut();
+            $('#filter-form').submit();
+        }
+    });
+}

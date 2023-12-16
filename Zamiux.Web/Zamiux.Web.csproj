@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\zamiux\content\img\user\userprofile\" />
     <Folder Include="wwwroot\zamiux\content\img\user\userbackground\" />
+    <Folder Include="wwwroot\zamiux\content\resume\" />
   </ItemGroup>
 
   <ItemGroup>
