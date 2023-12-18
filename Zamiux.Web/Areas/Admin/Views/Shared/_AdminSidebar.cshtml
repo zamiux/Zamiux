@@ -16,7 +16,7 @@
                 </li><!-- nav-item -->
 
                 <li class="nav-item">
-                    <a href="#" class="nav-link with-sub">
+                    <a href="#" class="nav-link with-sub active">
                         <i class="icon ion-person"></i>
                         <span>اطلاعات هویتی</span>
                     </a>
@@ -25,7 +25,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link with-sub">
+                    <a href="#" class="nav-link with-sub active">
                         <i class="icon ion-filing"></i>
                         <span>اطلاعات تخصصی</span>
                     </a>
@@ -35,7 +35,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link with-sub">
+                    <a href="#" class="nav-link with-sub active">
                         <i class="fa fa-tasks"></i>
                         <span>خدمات</span>
                     </a>
@@ -44,7 +44,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link with-sub">
+                    <a href="#" class="nav-link with-sub active">
                         <i class="icon ion-briefcase"></i>
                         <span>پروژه ها</span>
                     </a>
@@ -53,7 +53,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link with-sub">
+                    <a href="#" class="nav-link with-sub active">
                         <i class="fa fa-cog"></i>
                         <span>تنظیمات</span>
                     </a>
@@ -63,7 +63,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a href="#" class="nav-link with-sub">
+                    <a href="#" class="nav-link with-sub active">
                         <i class="icon ion-at"></i>
                         <span>ارتباطات</span>
                     </a>
@@ -72,7 +72,12 @@
                         <li class="nav-item"><a asp-area="Admin" asp-controller="Home" asp-action="Contact_Message" class="nav-link">پیام کاربران</a></li>
                     </ul>
                 </li>
-               
+                <li class="nav-item">
+                    <a asp-area="" asp-controller="Account" asp-action="LogOut" class="nav-link active">
+                        <i class="icon ion-power"></i>
+                        <span>خروج از مدیریت</span>
+                    </a>
+                </li><!-- nav-item -->
             </ul>
         </div><!-- #mainMenu -->
     </div><!-- tab-content -->

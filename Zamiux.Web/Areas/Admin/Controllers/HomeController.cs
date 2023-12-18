@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Mvc;
 using Zamiux.Web.Context;
 using Zamiux.Web.Entities.Contact;
 using Zamiux.Web.Entities.User;
@@ -20,6 +21,8 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         public IActionResult Index()
 		{
             ViewBag.ResumeCount = _context.resumeDls.Count();
+            ViewBag.WorkCount = _context.Works.Count();
+            ViewBag.MessageCount = _context.ContactMsgs.Count();
             return View();
 		}
 
@@ -58,14 +61,21 @@ namespace Zamiux.Web.Areas.Admin.Controllers
                 #endregion
 
                 #region Upload Logo
-                ImageLogo = Guid.NewGuid().ToString("N") + Path.GetExtension(updateInfo.ImageContactLogo.FileName);
-                updateInfo.ImageContactLogo.AddImageToServer(ImageLogo, PathExtension.logoContentServer, 100, 100, PathExtension.logoContentServerThumb, InfoContact_Data.ContactLogo);
+                if (updateInfo.ImageContactLogo != null)
+                {
+                    ImageLogo = Guid.NewGuid().ToString("N") + Path.GetExtension(updateInfo.ImageContactLogo.FileName);
+                    updateInfo.ImageContactLogo.AddImageToServer(ImageLogo, PathExtension.logoContentServer, 100, 100, PathExtension.logoContentServerThumb, InfoContact_Data.ContactLogo);
 
+                }
                 #endregion
 
                 #region Upload Logo Dark
-                ImageLogoDark = Guid.NewGuid().ToString("N") + Path.GetExtension(updateInfo.ImageContactLogoDark.FileName);
-                updateInfo.ImageContactLogoDark.AddImageToServer(ImageLogoDark, PathExtension.logoContentServerDark, 100, 100, PathExtension.logoContentServerDarkThumb, InfoContact_Data.ContactLogoDark);
+                if (updateInfo.ImageContactLogoDark != null)
+                {
+                    ImageLogoDark = Guid.NewGuid().ToString("N") + Path.GetExtension(updateInfo.ImageContactLogoDark.FileName);
+                    updateInfo.ImageContactLogoDark.AddImageToServer(ImageLogoDark, PathExtension.logoContentServerDark, 100, 100, PathExtension.logoContentServerDarkThumb, InfoContact_Data.ContactLogoDark);
+
+                }
 
                 #endregion
 
@@ -115,6 +125,15 @@ namespace Zamiux.Web.Areas.Admin.Controllers
             {
                 status = "success"
             });
+        }
+        #endregion
+
+        #region Logout
+        public async Task<IActionResult> LogOut()
+        {
+            await HttpContext.SignOutAsync();
+
+            return RedirectToAction("Login","Home") ;
         }
         #endregion
     }

@@ -106,6 +106,15 @@ namespace Zamiux.Web.Controllers
             }
             return View(login);
         }
-        #endregion 
+        #endregion
+
+        #region Logout
+        public async Task<IActionResult> LogOut()
+        { 
+            await HttpContext.SignOutAsync();
+
+            return RedirectToAction("Login");
+        }
+        #endregion
     }
 }

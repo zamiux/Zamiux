@@ -24,10 +24,16 @@
             <a class="nav-link" href="#" data-scroll-nav="3">نمونه‌کارها</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#" data-scroll-nav="5">بلاگ</a>
-        </li>
-        <li class="nav-item">
             <a class="nav-link" href="#" data-scroll-nav="6">تماس</a>
         </li>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <li class="nav-item">
+                <a class="nav-link" target="_blank" asp-area="Admin" asp-controller="Home" asp-action="index">پنل ادمین</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="LogOut">خروج از ادمین</a>
+            </li>
+        }      
     </ul>
 </div>

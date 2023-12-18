@@ -1,4 +1,6 @@
-﻿<section class="works section-padding" style="background-color:#f7f7f7" data-scroll-index="3">
+﻿@model Zamiux.Web.ViewModels.Home.WorkViewModel
+
+<section class="works section-padding" style="background-color:#f7f7f7" data-scroll-index="3">
     <div class="container-fluid">
         <div class="row">
 
@@ -11,9 +13,11 @@
             <div class="filtering text-center mb-30 col-sm-12">
                 <div class="filter">
                     <span data-filter="*" class="active">همه</span>
-                    <span data-filter=".brand">برند</span>
-                    <span data-filter=".web">طراحی</span>
-                    <span data-filter=".graphic">گرافیک</span>
+                    @*<span data-filter=".برند">برند</span>*@
+                    @foreach (var workcate in Model.categoryWork)
+                    {
+                        <span data-filter=".@workcate">@workcate</span>
+                    }
                 </div>
             </div>
 
@@ -22,157 +26,30 @@
             <!-- gallery -->
             <div class="gallery text-center full-width">
 
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items graphic">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/1.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/1.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+               
 
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items web">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/2.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/2.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @foreach (var work in Model.ListWorks)
+                {
 
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items brand">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/3.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/3.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
+                    <!-- gallery item -->
+                    <div class="col-lg-3 col-md-6 items @work.CategoryName">
+                        <div class="item-img">
+                            <img src="@(PathExtension.WorkImageOrgin + work.WorkImg)" alt="image">
+                            <div class="item-img-overlay valign">
+                                <div class="overlay-info full-width vertical-center">
+                                    <p>@work.CategoryName</p>
+                                    <h6>@work.WorkName</h6>
+                                    <a href="@(PathExtension.WorkImageOrgin + work.WorkImg)" class="popimg">
+                                        <span class="icon icon-basic-eye"></span>
+                                    </a>
+                                    <a target="_blank" href="@work.WorkExternalUrl">
+                                        <span class="icon icon-basic-link"></span>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items graphic">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/4.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/4.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items web">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/5.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/5.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items brand">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/6.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/6.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items brand">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/7.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/7.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- gallery item -->
-                <div class="col-lg-3 col-md-6 items graphic">
-                    <div class="item-img">
-                        <img src="/zamiux/img/portfolio/8.jpg" alt="image">
-                        <div class="item-img-overlay valign">
-                            <div class="overlay-info full-width vertical-center">
-                                <p>لوگو و برندسازی</p>
-                                <h6>طراحی خلاقانه</h6>
-                                <a href="/zamiux/img/portfolio/8.jpg" class="popimg">
-                                    <span class="icon icon-basic-eye"></span>
-                                </a>
-                                <a href="#0">
-                                    <span class="icon icon-basic-link"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                }
 
             </div>
 

@@ -4,6 +4,7 @@ using Microsoft.IdentityModel.Tokens;
 using Zamiux.Web.Context;
 using Zamiux.Web.Utils;
 using Zamiux.Web.Utils.ImageHandler;
+using Zamiux.Web.ViewModels.Service;
 using Zamiux.Web.ViewModels.Work;
 
 namespace Zamiux.Web.Areas.Admin.Controllers
@@ -79,11 +80,81 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         #endregion
 
         #region Edit Work
+        [HttpGet]
         public IActionResult Edit_Work(int id)
         {
             //fetch data from db
-            
+            //get usr work
+            var user_work = _context.Works.SingleOrDefault(s => s.Id == id);
+            if (user_work == null) return NotFound();
+
+            //new instance of VM and fill with value got Model and show in View
+            var workModel = new EditWorkViewModel()
+            {
+                CategoryName = user_work.CategoryName,
+                WorkName = user_work.WorkName,
+                IsActive = user_work.IsActive,
+                WorkExternalUrl= user_work.WorkExternalUrl,
+                WorkImg_old = user_work.WorkImg,
+            };
+
+            return View(workModel);
+        }
+
+        [HttpPost]
+        public IActionResult Edit_Work(int id,EditWorkViewModel modelWork)
+        {
+            //fetch data from db
+            //get usr work
+            var user_work = _context.Works.SingleOrDefault(s => s.Id == id);
+            if (user_work == null) return NotFound();
+
+            if (ModelState.IsValid)
+            {
+                string imageName = modelWork.WorkImg_old;
+                if (modelWork.WorkImg != null)
+                {
+                    imageName = Guid.NewGuid().ToString("N") + Path.GetExtension(modelWork.WorkImg.FileName);
+                    modelWork.WorkImg.AddImageToServer(imageName, PathExtension.WorkImageOrginServer, 100, 100, PathExtension.WorkImageOrginServerThumb, user_work.WorkImg);
+                    
+                    user_work.WorkImg = imageName;
+                    user_work.WorkImgThumb = imageName;
+                }
+
+                user_work.WorkExternalUrl = modelWork.WorkExternalUrl;
+                user_work.WorkName = modelWork.WorkName;    
+                user_work.CategoryName = modelWork.CategoryName;
+                user_work.IsActive = modelWork.IsActive;
+
+                _context.Works.Update(user_work);
+                _context.SaveChanges();
+                // todo: set message
+                return RedirectToAction("Index");
+
+            }
             return View();
+        }
+        #endregion
+
+        #region Delete Work
+        public IActionResult Delete_Work(int id)
+        {
+            //get usr work
+            var user_work = _context.Works.SingleOrDefault(s => s.Id == id);
+            if (user_work == null) return NotFound();
+
+            //delete image if record is pic or file exists
+            if (!string.IsNullOrEmpty(user_work.WorkImg))
+                user_work.WorkImg.DeleteImage(PathExtension.WorkImageOrginServer, PathExtension.WorkImageOrginServerThumb);
+
+            // delte record 
+            _context.Works.Remove(user_work);
+            _context.SaveChanges();
+
+            return new JsonResult(new
+            {
+                status = "success"
+            });
         }
         #endregion
     }

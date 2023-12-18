@@ -5,6 +5,7 @@ using Zamiux.Web.Entities.Contact;
 using Zamiux.Web.Entities.Services;
 using Zamiux.Web.Entities.Social;
 using Zamiux.Web.Entities.User;
+using Zamiux.Web.Entities.Works;
 using Zamiux.Web.Migrations;
 using Zamiux.Web.ViewModels.Home;
 
@@ -182,9 +183,30 @@ namespace Zamiux.Web.ViewComponents
     #region Works
     public class WorksViewComponent : ViewComponent
     {
+        #region Ctor
+        private ZamiuxDbContext _context;
+        public WorksViewComponent(ZamiuxDbContext context)
+        {
+            _context= context;
+        }
+        #endregion
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            return View("Works");
+            List<Work> myWorks = new List<Work>();
+            myWorks = _context.Works.Where(x => x.IsActive == true).ToList();
+
+
+            List<string> ListCate = new List<string>();
+            ListCate = _context.Works.Where(x => x.IsActive == true).Select(x => x.CategoryName).Distinct().ToList();
+
+            WorkViewModel viewModel = new WorkViewModel()
+            {
+                ListWorks = myWorks,
+                categoryWork = ListCate
+            };
+
+            
+            return View("Works", viewModel);
         }
     }
     #endregion
