@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Zamiux.Web.Entities.Ability;
+using Zamiux.Web.Entities.Authorization;
 using Zamiux.Web.Entities.Contact;
 using Zamiux.Web.Entities.Resume;
 using Zamiux.Web.Entities.Services;
@@ -26,6 +27,10 @@ namespace Zamiux.Web.Context
         public DbSet<ContactMsg> ContactMsgs { get; set; }
         public DbSet<ResumeDl> resumeDls { get; set; }
         public DbSet<Work> Works { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<Permission> Permissions { get; set; }
+        public DbSet<RolePermission> RolePermissions { get; set; }
+        public DbSet<UserRole> UserRoles { get; set; }
         #endregion
 
     }

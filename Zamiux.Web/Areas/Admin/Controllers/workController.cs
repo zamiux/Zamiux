@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Zamiux.Web.Context;
 using Zamiux.Web.Utils;
+using Zamiux.Web.Utils.Auth;
 using Zamiux.Web.Utils.ImageHandler;
 using Zamiux.Web.ViewModels.Service;
 using Zamiux.Web.ViewModels.Work;
@@ -20,6 +21,7 @@ namespace Zamiux.Web.Areas.Admin.Controllers
         #endregion
 
         #region List Works
+        //[PermissionChecker("work_showlist")]
         public IActionResult Index(FilterWorkViewModel filterWork)
         {
             //fetch all withoute data

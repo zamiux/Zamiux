@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Zamiux.Web.Entities.Authorization;
 
 namespace Zamiux.Web.Entities.User
 {
@@ -20,7 +21,8 @@ namespace Zamiux.Web.Entities.User
 
         public string? LastName { get; set; }
 
-        //public bool isSuperUser { get; set; } = false;
+        public bool isSuperUser { get; set; } = false;
+        public ICollection<UserRole> UserRoles { get; set; }
 
     }
 }
