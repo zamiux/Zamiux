@@ -48,5 +48,12 @@
     <!-- jQuery -->
     <partial name="_FooterRefrences"></partial>
     @await RenderSectionAsync("scripts", required: false)
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <script>
+            alert('@TempData["SuccessMessage"]');
+        </script>
+    }
 </body>
 </html>

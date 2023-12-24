@@ -5,6 +5,7 @@ using System.Security.Claims;
 using Zamiux.Web.Context;
 using Zamiux.Web.Entities.User;
 using Zamiux.Web.ViewModels.Account;
+using Zamiux.Web.Services.Interfaces;
 
 namespace Zamiux.Web.Controllers
 {
@@ -12,9 +13,11 @@ namespace Zamiux.Web.Controllers
     {
         #region Ctor
         private ZamiuxDbContext _context;
-        public AccountController(ZamiuxDbContext context)
+        private IPasswordHelper _passwordHelper;
+        public AccountController(ZamiuxDbContext context,IPasswordHelper passwordHelper)
         {
-                _context = context;
+            _context = context;
+            _passwordHelper = passwordHelper;
         }
         #endregion
 
@@ -37,7 +40,7 @@ namespace Zamiux.Web.Controllers
                     var user_data = new User
                     {
                         UserEmail = registerUser.UserEmail.ToLower().Trim(),
-                        UserPassword = registerUser.UserPassword,
+                        UserPassword = _passwordHelper.HashPassword(registerUser.UserPassword),
                         UserStatus = true,
                         EmailActivationCode = Guid.NewGuid().ToString("N")
                     };
@@ -76,7 +79,7 @@ namespace Zamiux.Web.Controllers
                 var user = _context.users.SingleOrDefault(u => u.UserEmail == login.UserEmail.ToLower().Trim());
                 if (user != null)
                 {
-                    if (user.UserPassword == login.UserPassword)
+                    if (user.UserPassword == _passwordHelper.HashPassword(login.UserPassword))
                     {
                         List<Claim> claims = new List<Claim>()
                     {
@@ -104,6 +107,8 @@ namespace Zamiux.Web.Controllers
                     ModelState.AddModelError("UserEmail", "نام کاربری یا کلمه عبور اشتباه می باشد");
                 }
             }
+
+            TempData["SuccessMessage"] = "ورود موفق";
             return View(login);
         }
         #endregion

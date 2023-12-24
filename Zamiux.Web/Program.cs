@@ -1,6 +1,11 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 using Zamiux.Web.Context;
+using Zamiux.Web.Services.Implementations;
+using Zamiux.Web.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -35,6 +40,15 @@ builder.Services.AddAuthentication(options =>
     options.ExpireTimeSpan = TimeSpan.FromDays(30);
     options.SlidingExpiration = true;
 });
+#endregion
+
+#region Add Hash Passwoed Service
+builder.Services.AddScoped<IPasswordHelper,Md5PasswordHelper>();
+#endregion
+
+#region Use Character UTF-8
+builder.Services.AddSingleton<HtmlEncoder>(
+    HtmlEncoder.Create(allowedRanges: new[] { UnicodeRanges.All }));
 #endregion
 
 var app = builder.Build();
