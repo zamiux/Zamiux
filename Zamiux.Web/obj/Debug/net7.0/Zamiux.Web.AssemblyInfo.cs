@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zamiux.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a23106aab182e12db68c5ba73ada5625ce9f48f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zamiux.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zamiux.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

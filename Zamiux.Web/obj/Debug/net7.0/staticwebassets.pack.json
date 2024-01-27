@@ -1,2308 +1,2124 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Zamiux.Web.bundle.scp.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Zamiux.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Zamiux.Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\css\\amanda.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\css\\amanda.css",
       "PackagePath": "staticwebassets\\admin\\css\\amanda.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\css\\fontiran.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\css\\fontiran.css",
       "PackagePath": "staticwebassets\\admin\\css\\fontiran.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSans.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSans.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSans.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Bold.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Bold.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_Bold.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Boldd41d.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Boldd41d.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_Boldd41d.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Light.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Light.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_Light.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Lightd41d.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Lightd41d.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_Lightd41d.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Medium.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Medium.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_Medium.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Mediumd41d.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_Mediumd41d.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_Mediumd41d.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_UltraLight.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_UltraLight.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_UltraLight.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_UltraLightd41d.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWeb_UltraLightd41d.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWeb_UltraLightd41d.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWebd41d.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansWebd41d.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansWebd41d.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansd41d.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\eot\\IRANSansd41d.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\eot\\IRANSansd41d.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSans.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSans.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\ttf\\IRANSans.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\ttf\\IRANSansWeb.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\ttf\\IRANSansWeb_Bold.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_Light.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_Light.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\ttf\\IRANSansWeb_Light.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_Medium.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_Medium.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\ttf\\IRANSansWeb_Medium.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_UltraLight.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\ttf\\IRANSansWeb_UltraLight.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\ttf\\IRANSansWeb_UltraLight.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSans.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSans.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff2\\IRANSans.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff2\\IRANSansWeb.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_Bold.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_Bold.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff2\\IRANSansWeb_Bold.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_Light.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_Light.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff2\\IRANSansWeb_Light.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff2\\IRANSansWeb_Medium.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_UltraLight.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff2\\IRANSansWeb_UltraLight.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff2\\IRANSansWeb_UltraLight.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSans.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSans.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff\\IRANSans.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff\\IRANSansWeb.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_Bold.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_Bold.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff\\IRANSansWeb_Bold.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_Light.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_Light.html",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff\\IRANSansWeb_Light.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_Medium.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_Medium.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff\\IRANSansWeb_Medium.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\woff\\IRANSansWeb_UltraLight.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img1.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img10.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img10.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img11.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img11.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\img11.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img12.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img12.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\img12.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img2.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img3.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img4.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img4.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img5.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img5.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img6.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img6.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img7.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img7.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img8.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img8.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\img\\img9.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\img9.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\ResizeSensor.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\ResizeSensor.js",
       "PackagePath": "staticwebassets\\admin\\js\\ResizeSensor.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\amanda.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\amanda.js",
       "PackagePath": "staticwebassets\\admin\\js\\amanda.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.chartjs.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.chartjs.js",
       "PackagePath": "staticwebassets\\admin\\js\\chart.chartjs.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.flot.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.flot.js",
       "PackagePath": "staticwebassets\\admin\\js\\chart.flot.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.morris.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.morris.js",
       "PackagePath": "staticwebassets\\admin\\js\\chart.morris.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.rickshaw.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.rickshaw.js",
       "PackagePath": "staticwebassets\\admin\\js\\chart.rickshaw.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.sparkline.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\chart.sparkline.js",
       "PackagePath": "staticwebassets\\admin\\js\\chart.sparkline.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\custom.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\custom.js",
       "PackagePath": "staticwebassets\\admin\\js\\custom.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\dashboard.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\jquery.vmap.sampledata.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\jquery.vmap.sampledata.js",
       "PackagePath": "staticwebassets\\admin\\js\\jquery.vmap.sampledata.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.apple.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.apple.js",
       "PackagePath": "staticwebassets\\admin\\js\\map.apple.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.bluewater.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.bluewater.js",
       "PackagePath": "staticwebassets\\admin\\js\\map.bluewater.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.mapbox.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.mapbox.js",
       "PackagePath": "staticwebassets\\admin\\js\\map.mapbox.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.shadesofgray.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.shadesofgray.js",
       "PackagePath": "staticwebassets\\admin\\js\\map.shadesofgray.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.shiftworker.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\js\\map.shiftworker.js",
       "PackagePath": "staticwebassets\\admin\\js\\map.shiftworker.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Flot\\jquery.flot.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Flot\\jquery.flot.js",
       "PackagePath": "staticwebassets\\admin\\lib\\Flot\\jquery.flot.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Flot\\jquery.flot.pie.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Flot\\jquery.flot.pie.js",
       "PackagePath": "staticwebassets\\admin\\lib\\Flot\\jquery.flot.pie.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Flot\\jquery.flot.resize.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Flot\\jquery.flot.resize.js",
       "PackagePath": "staticwebassets\\admin\\lib\\Flot\\jquery.flot.resize.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\css\\ionicons.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\css\\ionicons.css",
       "PackagePath": "staticwebassets\\admin\\lib\\Ionicons\\css\\ionicons.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.eot",
       "PackagePath": "staticwebassets\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.svg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.svg",
       "PackagePath": "staticwebassets\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.svg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.ttf",
       "PackagePath": "staticwebassets\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.woff",
       "PackagePath": "staticwebassets\\admin\\lib\\Ionicons\\fonts\\ionicons28b5.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\SpinKit\\spinkit.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\SpinKit\\spinkit.css",
       "PackagePath": "staticwebassets\\admin\\lib\\SpinKit\\spinkit.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\bootstrap\\bootstrap.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\bootstrap\\bootstrap.js",
       "PackagePath": "staticwebassets\\admin\\lib\\bootstrap\\bootstrap.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\chart.js\\Chart.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\chart.js\\Chart.js",
       "PackagePath": "staticwebassets\\admin\\lib\\chart.js\\Chart.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\d3\\d3.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\d3\\d3.js",
       "PackagePath": "staticwebassets\\admin\\lib\\d3\\d3.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\datatables-responsive\\dataTables.responsive.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\datatables-responsive\\dataTables.responsive.js",
       "PackagePath": "staticwebassets\\admin\\lib\\datatables-responsive\\dataTables.responsive.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\datatables\\jquery.dataTables.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\datatables\\jquery.dataTables.css",
       "PackagePath": "staticwebassets\\admin\\lib\\datatables\\jquery.dataTables.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\datatables\\jquery.dataTables.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\datatables\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\admin\\lib\\datatables\\jquery.dataTables.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\flot-spline\\jquery.flot.spline.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\flot-spline\\jquery.flot.spline.js",
       "PackagePath": "staticwebassets\\admin\\lib\\flot-spline\\jquery.flot.spline.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\css\\font-awesome.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\admin\\lib\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\gmaps\\gmaps.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\gmaps\\gmaps.js",
       "PackagePath": "staticwebassets\\admin\\lib\\gmaps\\gmaps.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\highlightjs\\github.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\highlightjs\\github.css",
       "PackagePath": "staticwebassets\\admin\\lib\\highlightjs\\github.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\highlightjs\\highlight.pack.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\highlightjs\\highlight.pack.js",
       "PackagePath": "staticwebassets\\admin\\lib\\highlightjs\\highlight.pack.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_asc.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_asc.html",
       "PackagePath": "staticwebassets\\admin\\lib\\images\\sort_asc.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_asc_disabled.html",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_asc_disabled.html",
       "PackagePath": "staticwebassets\\admin\\lib\\images\\sort_asc_disabled.html"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_both.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_both.png",
       "PackagePath": "staticwebassets\\admin\\lib\\images\\sort_both.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_desc.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_desc.png",
       "PackagePath": "staticwebassets\\admin\\lib\\images\\sort_desc.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_desc_disabled.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\images\\sort_desc_disabled.png",
       "PackagePath": "staticwebassets\\admin\\lib\\images\\sort_desc_disabled.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery-toggles\\toggles-full.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery-toggles\\toggles-full.css",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery-toggles\\toggles-full.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery-toggles\\toggles.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery-toggles\\toggles.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery-toggles\\toggles.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery-ui\\jquery-ui.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery-ui\\jquery-ui.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery-ui\\jquery-ui.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery.sparkline.bower\\jquery.sparkline.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery.sparkline.bower\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery.sparkline.bower\\jquery.sparkline.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery.steps\\jquery.steps.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery.steps\\jquery.steps.css",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery.steps\\jquery.steps.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery.steps\\jquery.steps.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery.steps\\jquery.steps.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery.steps\\jquery.steps.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery\\jquery.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jquery\\jquery.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\jquery.vmap.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\jquery.vmap.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jqvmap\\jquery.vmap.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\maps\\jquery.vmap.canada.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jqvmap\\maps\\jquery.vmap.canada.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\maps\\jquery.vmap.usa.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jqvmap\\maps\\jquery.vmap.usa.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\maps\\jquery.vmap.world.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\jqvmap\\maps\\jquery.vmap.world.js",
       "PackagePath": "staticwebassets\\admin\\lib\\jqvmap\\maps\\jquery.vmap.world.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\medium-editor\\default.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\medium-editor\\default.css",
       "PackagePath": "staticwebassets\\admin\\lib\\medium-editor\\default.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\medium-editor\\medium-editor.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\medium-editor\\medium-editor.css",
       "PackagePath": "staticwebassets\\admin\\lib\\medium-editor\\medium-editor.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\medium-editor\\medium-editor.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\medium-editor\\medium-editor.js",
       "PackagePath": "staticwebassets\\admin\\lib\\medium-editor\\medium-editor.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\morris.js\\morris.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\morris.js\\morris.css",
       "PackagePath": "staticwebassets\\admin\\lib\\morris.js\\morris.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\morris.js\\morris.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\morris.js\\morris.js",
       "PackagePath": "staticwebassets\\admin\\lib\\morris.js\\morris.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\parsleyjs\\parsley.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\parsleyjs\\parsley.js",
       "PackagePath": "staticwebassets\\admin\\lib\\parsleyjs\\parsley.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\perfect-scrollbar\\css\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\admin\\lib\\perfect-scrollbar\\css\\perfect-scrollbar.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js",
       "PackagePath": "staticwebassets\\admin\\lib\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\popper.js\\popper.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\popper.js\\popper.js",
       "PackagePath": "staticwebassets\\admin\\lib\\popper.js\\popper.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\raphael\\raphael.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\raphael\\raphael.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\raphael\\raphael.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\rickshaw\\rickshaw.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\rickshaw\\rickshaw.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\rickshaw\\rickshaw.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\rickshaw\\rickshaw.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\rickshaw\\rickshaw.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\rickshaw\\rickshaw.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\select2\\css\\select2.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\select2\\css\\select2.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\select2\\css\\select2.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\select2\\js\\select2.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\select2\\js\\select2.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\select2\\js\\select2.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\spectrum\\spectrum.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\spectrum\\spectrum.css",
       "PackagePath": "staticwebassets\\admin\\lib\\spectrum\\spectrum.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\spectrum\\spectrum.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\spectrum\\spectrum.js",
       "PackagePath": "staticwebassets\\admin\\lib\\spectrum\\spectrum.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernote291f.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernote291f.eot",
       "PackagePath": "staticwebassets\\admin\\lib\\summernote\\font\\summernote291f.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernote291f.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernote291f.ttf",
       "PackagePath": "staticwebassets\\admin\\lib\\summernote\\font\\summernote291f.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernote291f.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernote291f.woff",
       "PackagePath": "staticwebassets\\admin\\lib\\summernote\\font\\summernote291f.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernoted41d.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\font\\summernoted41d.eot",
       "PackagePath": "staticwebassets\\admin\\lib\\summernote\\font\\summernoted41d.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\summernote-bs4.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\summernote-bs4.css",
       "PackagePath": "staticwebassets\\admin\\lib\\summernote\\summernote-bs4.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\summernote-bs4.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\admin\\lib\\summernote\\summernote-bs4.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\summernote\\summernote-bs4.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\favicon.ico",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\3c98c45b509f4eefa749f52785e62419.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\3c98c45b509f4eefa749f52785e62419.png",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\3c98c45b509f4eefa749f52785e62419.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\Thumb\\3c98c45b509f4eefa749f52785e62419.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\Thumb\\3c98c45b509f4eefa749f52785e62419.png",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\Thumb\\3c98c45b509f4eefa749f52785e62419.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\dark\\9dbb24e0df6f4d29add6b775da7c848a.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\dark\\9dbb24e0df6f4d29add6b775da7c848a.png",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\dark\\9dbb24e0df6f4d29add6b775da7c848a.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\dark\\Thumb\\9dbb24e0df6f4d29add6b775da7c848a.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\dark\\Thumb\\9dbb24e0df6f4d29add6b775da7c848a.png",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\dark\\Thumb\\9dbb24e0df6f4d29add6b775da7c848a.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-dark.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\logo\\logo-dark.png",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\logo\\logo-dark.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\15bbf3fea5d0490f8ee589bf9796cffd.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\15bbf3fea5d0490f8ee589bf9796cffd.jpg",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\15bbf3fea5d0490f8ee589bf9796cffd.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\Thumb\\15bbf3fea5d0490f8ee589bf9796cffd.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\Thumb\\15bbf3fea5d0490f8ee589bf9796cffd.jpg",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\Thumb\\15bbf3fea5d0490f8ee589bf9796cffd.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\Thumb\\be445b22f7514283a54e6a042007bffa.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\Thumb\\be445b22f7514283a54e6a042007bffa.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\Thumb\\fdfd626969e94940adc2470ad7d65c4e.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\Thumb\\fdfd626969e94940adc2470ad7d65c4e.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\be445b22f7514283a54e6a042007bffa.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\be445b22f7514283a54e6a042007bffa.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userbackground\\fdfd626969e94940adc2470ad7d65c4e.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userbackground\\fdfd626969e94940adc2470ad7d65c4e.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\Thumb\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\Thumb\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\Thumb\\4d8c4a19d4c443158bc3de2aecbd78a6.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\Thumb\\b09395169cb04cbd96ae6f02668cccfb.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\Thumb\\b09395169cb04cbd96ae6f02668cccfb.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\Thumb\\fb2395af50d4429190ee77b886cccff3.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\Thumb\\fb2395af50d4429190ee77b886cccff3.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\b09395169cb04cbd96ae6f02668cccfb.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\b09395169cb04cbd96ae6f02668cccfb.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\user\\userprofile\\fb2395af50d4429190ee77b886cccff3.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\user\\userprofile\\fb2395af50d4429190ee77b886cccff3.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\0bbbe061ce6d4922bb7a0d5b12dcc672.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\0bbbe061ce6d4922bb7a0d5b12dcc672.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\040850dd4cc34d88a503e99d5635bc37.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\040850dd4cc34d88a503e99d5635bc37.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\0e3f3186430e482f8969880c045f524c.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\0e3f3186430e482f8969880c045f524c.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\0772e407e08f47e4a758d7c189d38bb3.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\0772e407e08f47e4a758d7c189d38bb3.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\2563df2a49ab481eb022a00cc4ab1f56.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\2563df2a49ab481eb022a00cc4ab1f56.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\343f359eb0c542cea0bab953f5f6becd.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\343f359eb0c542cea0bab953f5f6becd.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\26735f9b18404323a178d948e1eac9ce.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\26735f9b18404323a178d948e1eac9ce.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\52d43ae22b8d4e72b7d81fc15d8feef2.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\52d43ae22b8d4e72b7d81fc15d8feef2.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\4b99ddb7421f426f9022c9e0d7da2add.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\4b99ddb7421f426f9022c9e0d7da2add.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\6731e9544510454492cb5826493c1b25.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\6731e9544510454492cb5826493c1b25.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\9dcced819c8747b6b6cf317f55b1def2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\9dcced819c8747b6b6cf317f55b1def2.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\7d219a3b1e0d4441938acf85b2de2384.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\7d219a3b1e0d4441938acf85b2de2384.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\DefaultWork.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\88ccdeb9874e44dc82d2690c7b8df16d.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\88ccdeb9874e44dc82d2690c7b8df16d.jpg"
+    },
+    {
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\DefaultWork.jpg",
       "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\DefaultWork.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\0bbbe061ce6d4922bb7a0d5b12dcc672.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\0bbbe061ce6d4922bb7a0d5b12dcc672.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\040850dd4cc34d88a503e99d5635bc37.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\040850dd4cc34d88a503e99d5635bc37.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\0e3f3186430e482f8969880c045f524c.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\0e3f3186430e482f8969880c045f524c.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\0772e407e08f47e4a758d7c189d38bb3.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\0772e407e08f47e4a758d7c189d38bb3.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\2563df2a49ab481eb022a00cc4ab1f56.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\2563df2a49ab481eb022a00cc4ab1f56.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\343f359eb0c542cea0bab953f5f6becd.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\343f359eb0c542cea0bab953f5f6becd.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\26735f9b18404323a178d948e1eac9ce.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\26735f9b18404323a178d948e1eac9ce.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\52d43ae22b8d4e72b7d81fc15d8feef2.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\52d43ae22b8d4e72b7d81fc15d8feef2.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\4b99ddb7421f426f9022c9e0d7da2add.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\4b99ddb7421f426f9022c9e0d7da2add.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\6731e9544510454492cb5826493c1b25.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\6731e9544510454492cb5826493c1b25.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\9dcced819c8747b6b6cf317f55b1def2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\9dcced819c8747b6b6cf317f55b1def2.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\7d219a3b1e0d4441938acf85b2de2384.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\7d219a3b1e0d4441938acf85b2de2384.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\a783c22da0814fefa7cfbabfa448a9e8.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\a783c22da0814fefa7cfbabfa448a9e8.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\88ccdeb9874e44dc82d2690c7b8df16d.jpg",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\88ccdeb9874e44dc82d2690c7b8df16d.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\ebe5e922bf9349bf8dc9c1d9fdfd4096.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\ebe5e922bf9349bf8dc9c1d9fdfd4096.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\Thumb\\d114108ba2484ee7ad7698f3a428cc1a.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\Thumb\\d114108ba2484ee7ad7698f3a428cc1a.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\a783c22da0814fefa7cfbabfa448a9e8.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\a783c22da0814fefa7cfbabfa448a9e8.jpg"
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\d114108ba2484ee7ad7698f3a428cc1a.png",
+      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\d114108ba2484ee7ad7698f3a428cc1a.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\img\\work\\ebe5e922bf9349bf8dc9c1d9fdfd4096.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\content\\img\\work\\ebe5e922bf9349bf8dc9c1d9fdfd4096.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\resume\\mohsen_zamani.pdf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\content\\resume\\mohsen_zamani.pdf",
       "PackagePath": "staticwebassets\\zamiux\\content\\resume\\mohsen_zamani.pdf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-aviny.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-azarmehr.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-azarmehr.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-azarmehr.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-damavand.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-damavand.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-damavand.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-dana.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-dana.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-dana.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-dastnevis.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-dastnevis.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-dastnevis.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-dubai.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-dubai.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-dubai.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-estedad.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-estedad.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-estedad.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-helvetica-neue.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-helvetica-neue.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-helvetica-neue.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-iran-sans.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-iran-sans.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-iran-sans.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-iran-yekan.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-iran-yekan.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-iran-yekan.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-lalezar.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-lalezar.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-lalezar.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-mikhak.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-mikhak.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-mikhak.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-myriad.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-myriad.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-myriad.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-noora.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-noora.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-noora.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-palatino-sans.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-palatino-sans.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-palatino-sans.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-pinar.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-pinar.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-pinar.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-sahel.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-sahel.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-sahel.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-shabnam.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-shabnam.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-shabnam.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-vanda.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-vanda.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-vanda.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-vazir.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\primary-vazir.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\primary-vazir.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-aviny.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-aviny.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-aviny.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-azarmehr.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-azarmehr.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-azarmehr.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-damavand.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-damavand.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-damavand.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-dana.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-dana.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-dana.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-dastnevis.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-dastnevis.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-dastnevis.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-dubai.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-dubai.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-dubai.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-estedad.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-estedad.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-estedad.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-helvetica-neue.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-helvetica-neue.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-helvetica-neue.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-iran-sans.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-iran-sans.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-iran-sans.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-iran-yekan.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-iran-yekan.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-iran-yekan.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-lalezar.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-lalezar.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-lalezar.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-mikhak.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-mikhak.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-mikhak.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-myriad.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-myriad.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-myriad.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-noora.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-noora.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-noora.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-palatino-sans.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-palatino-sans.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-palatino-sans.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-pinar.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-pinar.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-pinar.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-sahel.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-sahel.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-sahel.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-shabnam.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-shabnam.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-shabnam.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-vanda.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-vanda.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-vanda.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-vazir.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\farsi-fonts-styles\\secondary-vazir.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\farsi-fonts-styles\\secondary-vazir.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\YouTubePopUp.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\YouTubePopUp.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\YouTubePopUp.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\animate.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\animate.min.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\animate.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\bootstrap.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\fontawesome-all.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\fontawesome-all.min.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\fontawesome-all.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\helper.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\helper.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\helper.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\linea-basic.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\linea-basic.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\linea-basic.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\magnific-popup.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\magnific-popup.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\magnific-popup.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\owl.carousel.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\owl.theme.default.min.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\plugins\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\plugins\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\style.css",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\css\\style.css",
       "PackagePath": "staticwebassets\\zamiux\\css\\style.css"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.svg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.svg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.svg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\aviny-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\aviny-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\aviny-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\aviny-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\aviny-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\azarmehr-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\damavand-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\damavand-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\damavand-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\damavand-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\damavand-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dana-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dana-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dastnevis-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\dubai-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\dubai-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\estedad-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\estedad-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\helvetica-neue-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-sans-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\iran-yekan-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\lalezar-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\lalezar-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\lalezar-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\lalezar-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\lalezar-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\mikhak-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\mikhak-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\myriad-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\myriad-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\noora-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\noora-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\palatino-sans-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\pinar-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\pinar-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\sahel-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\sahel-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\shabnam-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\shabnam-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vanda-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vanda-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-300.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-300.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-300.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-300.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-300.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-400.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-400.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-400.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-400.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-400.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-500.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-500.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-500.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-500.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-500.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-700.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-700.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-700.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.woff2",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\farsi-fonts\\vazir-700.woff2",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\farsi-fonts\\vazir-700.woff2"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.eot",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.eot",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\linea-basic-10.eot"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.svg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.svg",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\linea-basic-10.svg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.ttf",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.ttf",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\linea-basic-10.ttf"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.woff",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\fonts\\linea-basic-10.woff",
       "PackagePath": "staticwebassets\\zamiux\\fonts\\linea-basic-10.woff"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\03.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\03.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\bg1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\bg1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\bg2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\bg2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\bg3.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\bg3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\bg4.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\bg4.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\bg5.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\bg5.jpg",
       "PackagePath": "staticwebassets\\zamiux\\img\\bg5.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\blog\\01.png",
-      "PackagePath": "staticwebassets\\zamiux\\img\\blog\\01.png"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\blog\\02.png",
-      "PackagePath": "staticwebassets\\zamiux\\img\\blog\\02.png"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\blog\\1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\blog\\1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\blog\\2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\blog\\2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\blog\\3.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\blog\\3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\clients-logo\\1.png",
-      "PackagePath": "staticwebassets\\zamiux\\img\\clients-logo\\1.png"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\clients\\1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\clients\\1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\clients\\2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\clients\\2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\clients\\3.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\clients\\3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\close.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\close.png",
       "PackagePath": "staticwebassets\\zamiux\\img\\close.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\3.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\4.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\4.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\5.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\5.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\6.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\6.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\7.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\7.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\8.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\8.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\demos\\9.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\demos\\9.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\favicon.ico",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\zamiux\\img\\favicon.ico"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\hero.jpg",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\favicon2.ico",
+      "PackagePath": "staticwebassets\\zamiux\\img\\favicon2.ico"
+    },
+    {
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\hero.jpg",
       "PackagePath": "staticwebassets\\zamiux\\img\\hero.jpg"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\logo-dark.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\logo-dark.png",
       "PackagePath": "staticwebassets\\zamiux\\img\\logo-dark.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\logo-light.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\logo-dark2.png",
+      "PackagePath": "staticwebassets\\zamiux\\img\\logo-dark2.png"
+    },
+    {
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\logo-light.png",
       "PackagePath": "staticwebassets\\zamiux\\img\\logo-light.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\pattern.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\logo-light2.png",
+      "PackagePath": "staticwebassets\\zamiux\\img\\logo-light2.png"
+    },
+    {
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\pattern.png",
       "PackagePath": "staticwebassets\\zamiux\\img\\pattern.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\3.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\4.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\4.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\5.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\5.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\6.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\6.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\7.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\7.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\portfolio\\8.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\portfolio\\8.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\team\\1.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\team\\1.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\team\\2.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\team\\2.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\team\\3.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\team\\3.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\team\\4.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\img\\team\\4.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\wave.png",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\img\\wave.png",
       "PackagePath": "staticwebassets\\zamiux\\img\\wave.png"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\YouTubePopUp.jquery.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\YouTubePopUp.jquery.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\YouTubePopUp.jquery.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\app.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\app.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\app.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\bootstrap.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\isotope.pkgd.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\isotope.pkgd.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery-3.0.0.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery-3.0.0.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery-migrate-3.0.0.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery-migrate-3.0.0.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery-migrate-3.0.0.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.counterup.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.magnific-popup.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.placeholder.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.placeholder.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery.placeholder.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.stellar.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.stellar.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery.stellar.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.waypoints.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\jquery.waypoints.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\jquery.waypoints.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\map.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\map.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\map.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\owl.carousel.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\particles.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\particles.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\particles.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\popper.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\scripts.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\scripts.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\scripts.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\scrollIt.min.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\scrollIt.min.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\scrollIt.min.js"
     },
     {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\validator.js",
+      "Id": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\js\\validator.js",
       "PackagePath": "staticwebassets\\zamiux\\js\\validator.js"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\video\\cover.jpg",
-      "PackagePath": "staticwebassets\\zamiux\\video\\cover.jpg"
-    },
-    {
-      "Id": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\wwwroot\\zamiux\\video\\video.mp4",
-      "PackagePath": "staticwebassets\\zamiux\\video\\video.mp4"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Zamiux.Web.Microsoft.AspNetCore.StaticWebAssets.props",
