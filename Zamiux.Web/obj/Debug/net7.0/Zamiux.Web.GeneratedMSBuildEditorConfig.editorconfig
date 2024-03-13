@@ -9,235 +9,233 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Zamiux.Web
 build_property.RootNamespace = Zamiux.Web
-build_property.ProjectDir = E:\Projects\ASP.Core\Zamiux\Zamiux\Zamiux.Web\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\Projects\ZamiuxWeb\Zamiux\Zamiux.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Projects\ASP.Core\Zamiux\Zamiux\Zamiux.Web
+build_property.MSBuildProjectDirectory = D:\Projects\ZamiuxWeb\Zamiux\Zamiux.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/Contact_Message.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/Contact_Message.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDb250YWN0X01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/Index.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/SiteSetting.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Home/SiteSetting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTaXRlU2V0dGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminFooterRefrences.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminFooterRefrences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkZvb3RlclJlZnJlbmNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminHeader.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkhlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminHeaderRefrences.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminHeaderRefrences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkhlYWRlclJlZnJlbmNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminPagingPartial.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminPagingPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pblBhZ2luZ1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminSidebar.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminSidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pblNpZGViYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Ability.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Ability.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cQ3JlYXRlX1VzZXJfQWJpbGl0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Intro.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Intro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cQ3JlYXRlX1VzZXJfSW50cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Social.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Create_User_Social.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cQ3JlYXRlX1VzZXJfU29jaWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Ability.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Ability.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cRWRpdF9Vc2VyX0FiaWxpdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Intro.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Intro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cRWRpdF9Vc2VyX0ludHJvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Social.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/Edit_User_Social.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cRWRpdF9Vc2VyX1NvY2lhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/UserContent.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/UserContent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlckNvbnRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Ability.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Ability.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlcl9BYmlsaXR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Intro.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Intro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlcl9JbnRyby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Social.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserInfo/User_Social.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlckluZm9cVXNlcl9Tb2NpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Create_User_Service.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Create_User_Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNlcnZpY2VcQ3JlYXRlX1VzZXJfU2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Edit_User_Service.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Edit_User_Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNlcnZpY2VcRWRpdF9Vc2VyX1NlcnZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Index.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/UserService/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNlcnZpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/work/Create_Work.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/work/Create_Work.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3Ncd29ya1xDcmVhdGVfV29yay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/work/Edit_Work.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/work/Edit_Work.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3Ncd29ya1xFZGl0X1dvcmsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/work/Index.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/work/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3Ncd29ya1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Account/Login.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Account/Register.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Blog/Index.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Blog/Post.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Blog/Post.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQb3N0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Home/Index.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/BlogCategory/BlogCategory.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/BlogCategory/BlogCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0NhdGVnb3J5XEJsb2dDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/BlogSlide/BlogSlide.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/BlogSlide/BlogSlide.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ1NsaWRlXEJsb2dTbGlkZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/ContactInfo/ContactInfo.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/ContactInfo/ContactInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdEluZm9cQ29udGFjdEluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/FooterSocial/FooterSocial.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/FooterSocial/FooterSocial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyU29jaWFsXEZvb3RlclNvY2lhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/Hero/Hero.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/Hero/Hero.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVyb1xIZXJvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/LastBlog/LastBlog.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/LastBlog/LastBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFzdEJsb2dcTGFzdEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/LastComment/LastComment.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/LastComment/LastComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFzdENvbW1lbnRcTGFzdENvbW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/MenuHeader/MenuHeader.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/MenuHeader/MenuHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUhlYWRlclxNZW51SGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/Numbers/Numbers.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/Numbers/Numbers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTnVtYmVyc1xOdW1iZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/ServicesUs/ServicesUs.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/ServicesUs/ServicesUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZXNVc1xTZXJ2aWNlc1VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/Skill/Skill.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/Skill/Skill.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2tpbGxcU2tpbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/Slider/Slider.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/Slider/Slider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXFNsaWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/Testimonials/Testimonials.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/Testimonials/Testimonials.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxzXFRlc3RpbW9uaWFscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/Components/Works/Works.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/Components/Works/Works.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV29ya3NcV29ya3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_FooterRefrences.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_FooterRefrences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJSZWZyZW5jZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_FooterUserRefrences.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_FooterUserRefrences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJVc2VyUmVmcmVuY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_HeaderRefrences.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_HeaderRefrences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJSZWZyZW5jZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_HeaderUserRefrences.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_HeaderUserRefrences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJVc2VyUmVmcmVuY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_Meta.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_Meta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/_ViewImports.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/_ViewStart.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-2mb9nrjwr7
 
-[E:/Projects/ASP.Core/Zamiux/Zamiux/Zamiux.Web/Views/Shared/_Layout.cshtml]
+[D:/Projects/ZamiuxWeb/Zamiux/Zamiux.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nv7yn7c5hr
