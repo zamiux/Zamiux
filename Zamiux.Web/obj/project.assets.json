@@ -11179,25 +11179,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\m.zamani\\.nuget\\packages\\": {},
+    "C:\\Users\\mohsen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\Zamiux.Web.csproj",
+      "projectUniqueName": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\Zamiux.Web.csproj",
       "projectName": "Zamiux.Web",
-      "projectPath": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\Zamiux.Web.csproj",
-      "packagesPath": "C:\\Users\\m.zamani\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ZamiuxWeb\\Zamiux\\Zamiux.Web\\obj\\",
+      "projectPath": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\Zamiux.Web.csproj",
+      "packagesPath": "C:\\Users\\mohsen\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\ASP.Core\\Zamiux\\Zamiux\\Zamiux.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\m.zamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mohsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11206,7 +11206,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11289,8 +11289,40 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5x7m-6737-26cr",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-65x7-c272-7g7r",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-g85r-6x2q-45w7",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
